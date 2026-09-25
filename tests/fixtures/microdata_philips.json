@@ -1,0 +1,35 @@
+{
+ "result": true,
+ "data": {
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Пылесос  Philips FC9734/01 фиолетовый",
+  "description": "Пылесос Philips FC9734/01 поддерживает циклонную систему фильтрации. Это значит, что прибор не снижает мощность всасывания даже при полном заполнении 2-литрового резервуара для мусора. HEPA-фильтр очищает воздух от пыли, пыльцы, шерсти. Насадка TriActive+ удаляет пыль вдоль стен, очищает ковры и собирает крупный мусор. \nТруба всасывания Philips FC9734/01 является телескопической, поэтому отличается компактным хранением. Сетевой кабель длиной 7 м гарантирует свободное перемещение пользователя из помещения в помещение. На корпусе фиолетового цвета есть кнопка для автоматической смотки шнура. Хранить аксессуары можно в специально отведенном отсеке внутри корпуса.",
+  "sku": "5482008",
+  "offers": {
+   "@type": "Offer",
+   "url": "https://www.dns-shop.ru/product/9d6245855873d582/pylesos-philips-fc973401-fioletovyj/",
+   "availability": "https://schema.org/InStock",
+   "price": 15999,
+   "priceCurrency": "RUB"
+  },
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": 4.83,
+   "worstRating": 1,
+   "bestRating": 5,
+   "reviewCount": 677
+  },
+  "image": [
+   "https://c.dns-shop.ru/thumb/st1/fit/300/300/84430e839449f9693753f5f161756927/3627cf654f3a582f95765af9b1acbf22fa9ef043ecb33448aa02f227f53e75a2.jpg",
+   "https://c.dns-shop.ru/thumb/st1/fit/300/300/355705da1e14463543ca5c5369e6c749/d7a4e60f0327add99f66460b5105f863847cc2563d1d9cd1255cd03ed63ca5a5.jpg",
+   "https://c.dns-shop.ru/thumb/st1/fit/300/300/46fa0f5b0d0ae0c22b4e4c880d161416/27b1098bb3f5df776f9704975a39d840bd8b9d731b0a64af3be12469f48bcabe.jpg"
+  ],
+  "brand": {
+   "@type": "Brand",
+   "name": "Philips"
+  }
+ },
+ "message": "",
+ "errors": []
+}

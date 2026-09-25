@@ -1,0 +1,22 @@
+{
+ "id": "9d624585-5873-11ef-9250-0050569d5825",
+ "defaultPeriod": {
+  "name": "",
+  "period": 24
+ },
+ "items": [
+  {
+   "name": "1 год",
+   "price": 2080,
+   "type": 0,
+   "period": 1,
+   "vobler": "benefit"
+  },
+  {
+   "name": "2 года",
+   "price": 2880,
+   "type": 0,
+   "period": 2
+  }
+ ]
+}

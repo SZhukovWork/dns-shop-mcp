@@ -1,0 +1,879 @@
+{
+ "result": false,
+ "data": {
+  "blocks": {
+   "search": [],
+   "avails": [
+    {
+     "type": "shops",
+     "id": "shop-catalog",
+     "label": "Магазины",
+     "variants": [
+      {
+       "id": "1527",
+       "label": "ЕКБ В. де Геннина 31",
+       "count": null,
+       "latitude": 56.792443,
+       "longitude": 60.522403,
+       "metroName": null,
+       "metroColor": "#D10000",
+       "address": "г. Екатеринбург,  ул. Вильгельма Де Геннина д.31, 1 этаж",
+       "worktime": "Ежедневно с 10:00 до 21:00"
+      },
+      {
+       "id": "5234",
+       "label": "ЕКБ Виктори молл",
+       "count": null,
+       "latitude": 56.89579,
+       "longitude": 60.608977,
+       "metroName": "Проспект Космонавтов",
+       "metroColor": "#0A6F20",
+       "address": "г. Екатеринбург, ул. Победы, д. 14, корпус а, 1 этаж",
+       "worktime": "Ежедневно с 10:00 до 22:00"
+      }
+     ],
+     "selected": [],
+     "city": "Екатеринбург"
+    },
+    {
+     "type": "checkbox",
+     "id": "stock",
+     "label": "Наличие",
+     "top": [],
+     "variants": [
+      {
+       "id": "now",
+       "label": "В наличии",
+       "count": null
+      },
+      {
+       "id": "today",
+       "label": "Под заказ: сегодня",
+       "count": null
+      },
+      {
+       "id": "tomorrow",
+       "label": "Под заказ: завтра",
+       "count": null
+      },
+      {
+       "id": "later",
+       "label": "Под заказ: позже",
+       "count": null
+      },
+      {
+       "id": "out_of_stock",
+       "label": "Отсутствующие в продаже",
+       "count": null
+      }
+     ],
+     "selected": [],
+     "default": [
+      "now",
+      "today",
+      "tomorrow",
+      "later",
+      "out_of_stock"
+     ]
+    }
+   ],
+   "left": [
+    {
+     "type": "toggle",
+     "id": "rating",
+     "label": "Рейтинг 4.5 и выше",
+     "count": 266,
+     "selected": false
+    },
+    {
+     "type": "checkbox",
+     "id": "seller",
+     "label": "Продавец",
+     "top": [],
+     "variants": [
+      {
+       "id": "dns",
+       "label": "DNS",
+       "count": 416
+      },
+      {
+       "id": "other",
+       "label": "Другой",
+       "count": 29
+      }
+     ],
+     "selected": [],
+     "default": []
+    },
+    {
+     "type": "toggle",
+     "id": "rely",
+     "label": "Надёжные модели",
+     "count": 303,
+     "selected": false,
+     "hint": "минимум обращений в сервис"
+    },
+    {
+     "type": "toggle",
+     "id": "review",
+     "label": "Есть обзор",
+     "count": 71,
+     "selected": false
+    },
+    {
+     "type": "toggle",
+     "id": "bonus-for-opinion",
+     "label": "Бонусы за отзыв",
+     "count": 20,
+     "selected": false
+    },
+    {
+     "type": "range-checkbox",
+     "id": "price",
+     "label": "Цена",
+     "variants": [
+      {
+       "id": "11f43a520fd08ac6f55aac6744ddb44f",
+       "label": "Менее 2 500 ₽",
+       "count": 1,
+       "min": null,
+       "max": 2500
+      },
+      {
+       "id": "6236f55cae50013dc53587a0a9dbaaba",
+       "label": "2 501 - 5 500 ₽",
+       "count": 77,
+       "min": 2501,
+       "max": 5500
+      },
+      {
+       "id": "e9b01a20dc17dbaf8b0f8b2c71cbcfe9",
+       "label": "5 501 - 8 500 ₽",
+       "count": 94,
+       "min": 5501,
+       "max": 8500
+      },
+      {
+       "id": "6aa7d69dcfb2f418f48778d8464b9765",
+       "label": "8 501 - 14 500 ₽",
+       "count": 91,
+       "min": 8501,
+       "max": 14500
+      },
+      {
+       "id": "7004d461fb2c1c4fff16cb4b83d94992",
+       "label": "14 501 - 17 500 ₽",
+       "count": 19,
+       "min": 14501,
+       "max": 17500
+      },
+      {
+       "id": "7d523d3731bf64bca413cb40dd0d64df",
+       "label": "17 501 ₽ и более",
+       "count": 75,
+       "min": 17501,
+       "max": null
+      }
+     ],
+     "min": 2050,
+     "max": 90799,
+     "minSelected": null,
+     "maxSelected": null,
+     "selected": []
+    },
+    {
+     "type": "checkbox",
+     "id": "action",
+     "label": "Предложения брендов",
+     "top": [],
+     "variants": [
+      {
+       "id": "vygodnyekomplekty",
+       "label": "Выгодные комплекты",
+       "count": 19
+      },
+      {
+       "id": "tovarysoskidkoj",
+       "label": "Скидки и предложения",
+       "count": 20
+      }
+     ],
+     "selected": [],
+     "default": []
+    },
+    {
+     "type": "toggle",
+     "id": "created-in-dns",
+     "label": "Создано DNS",
+     "count": 22,
+     "selected": false
+    },
+    {
+     "type": "checkbox",
+     "id": "brand",
+     "label": "Бренд",
+     "top": [
+      "samsung",
+      "philips",
+      "thomas",
+      "polaris",
+      "karcher",
+      "tefal",
+      "dexp"
+     ],
+     "variants": [
+      {
+       "id": "dexp",
+       "label": "DEXP",
+       "count": 22
+      },
+      {
+       "id": "karcher",
+       "label": "Karcher",
+       "count": 18
+      },
+      {
+       "id": "philips",
+       "label": "Philips",
+       "count": 22
+      },
+      {
+       "id": "polaris",
+       "label": "Polaris",
+       "count": 11
+      },
+      {
+       "id": "samsung",
+       "label": "Samsung",
+       "count": 54
+      },
+      {
+       "id": "tefal",
+       "label": "Tefal",
+       "count": 25
+      },
+      {
+       "id": "thomas",
+       "label": "Thomas",
+       "count": 29
+      },
+      {
+       "id": "bosch",
+       "label": "Bosch",
+       "count": 41
+      },
+      {
+       "id": "dreame",
+       "label": "Dreame",
+       "count": 1
+      },
+      {
+       "id": "dyson",
+       "label": "Dyson",
+       "count": 3
+      },
+      {
+       "id": "gorenje",
+       "label": "Gorenje",
+       "count": 15
+      },
+      {
+       "id": "hyundai",
+       "label": "Hyundai",
+       "count": 13
+      }
+     ],
+     "selected": [],
+     "default": [],
+     "selectAllLabel": "Все бренды"
+    },
+    {
+     "type": "checkbox",
+     "id": "f[bz]",
+     "label": "Вид",
+     "description": "<span id=\"as-wN1X9t\"></span>",
+     "isSpec": true,
+     "top": [],
+     "variants": [
+      {
+       "id": "4vf",
+       "label": "моющий",
+       "count": 71
+      },
+      {
+       "id": "4ve",
+       "label": "обычный",
+       "count": 373
+      },
+      {
+       "id": "29v",
+       "label": "ручной",
+       "count": 1
+      }
+     ],
+     "selected": [],
+     "default": []
+    },
+    {
+     "type": "checkbox",
+     "id": "f[od]",
+     "label": "Тип пылесборника",
+     "description": "<span id=\"as-lw1giH\"></span>",
+     "isSpec": true,
+     "top": [],
+     "variants": [
+      {
+       "id": "1csl",
+       "label": "контейнер/мешок",
+       "count": 19
+      },
+      {
+       "id": "g9x",
+       "label": "контейнер",
+       "count": 352
+      },
+      {
+       "id": "4vu",
+       "label": "мешок",
+       "count": 69
+      },
+      {
+       "id": "2767",
+       "label": "аквафильтр",
+       "count": 3
+      },
+      {
+       "id": "1me9",
+       "label": "циклонная система фильтрации",
+       "count": 1
+      },
+      {
+       "id": "65oq",
+       "label": "контейнер/аквафильтр",
+       "count": 1
+      }
+     ],
+     "selected": [],
+     "default": []
+    },
+    {
+     "type": "checkbox",
+     "id": "f[o9]",
+     "label": "Тип уборки",
+     "description": "<span id=\"as-9gnPnR\"></span>",
+     "isSpec": true,
+     "top": [],
+     "variants": [
+      {
+       "id": "stq2",
+       "label": "Напольные пылесосы",
+       "count": 6
+      },
+      {
+       "id": "4vi",
+       "label": "влажная",
+       "count": 74
+      },
+      {
+       "id": "fn2h",
+       "label": "паром",
+       "count": 9
+      },
+      {
+       "id": "4vh",
+       "label": "сухая",
+       "count": 410
+      }
+     ],
+     "selected": [],
+     "default": []
+    },
+    {
+     "type": "range-radio",
+     "id": "fr[oc]",
+     "label": "Мощность всасывания (Вт)",
+     "description": "<span id=\"as-225fJW\"></span>",
+     "isSpec": true,
+     "variants": [
+      {
+       "id": "1bb1683a8cd6b458548dcf2d6dd55769",
+       "label": "Менее 300",
+       "count": 32,
+       "min": null,
+       "max": 300
+      },
+      {
+       "id": "b3166e67ca0bfa2e2980c55c1d340085",
+       "label": "301 - 350",
+       "count": 55,
+       "min": 301,
+       "max": 350
+      },
+      {
+       "id": "354c77ffb369997d40c2c9af20e79633",
+       "label": "351 - 399",
+       "count": 70,
+       "min": 351,
+       "max": 399
+      },
+      {
+       "id": "a02f40f8ca08654528b68880c4546084",
+       "label": "400 - 449",
+       "count": 65,
+       "min": 400,
+       "max": 449
+      },
+      {
+       "id": "2908f16d41fc079a3fae019a3bec0258",
+       "label": "450 - 500",
+       "count": 37,
+       "min": 450,
+       "max": 500
+      },
+      {
+       "id": "1bf99890aa7414a90067347c0a7ebffb",
+       "label": "501 и более",
+       "count": 7,
+       "min": 501,
+       "max": null
+      }
+     ],
+     "emptyVariantLabel": "Все",
+     "min": 45,
+     "max": 800,
+     "minSelected": null,
+     "maxSelected": null,
+     "selected": null
+    },
+    {
+     "type": "checkbox",
+     "id": "f[39i]",
+     "label": "Тип фильтрации",
+     "description": "<span id=\"as-TLSrPY\"></span>",
+     "isSpec": true,
+     "top": [],
+     "variants": [
+      {
+       "id": "2767",
+       "label": "аквафильтр",
+       "count": 55
+      },
+      {
+       "id": "cr",
+       "label": "нет",
+       "count": 13
+      },
+      {
+       "id": "1me9",
+       "label": "циклонная система фильтрации",
+       "count": 251
+      }
+     ],
+     "selected": [],
+     "default": []
+    },
+    {
+     "type": "checkbox",
+     "id": "f[oe]",
+     "label": "Регулятор мощности",
+     "description": "<span id=\"as-ia28Pv\"></span>",
+     "isSpec": true,
+     "top": [],
+     "variants": [
+      {
+       "id": "4vv",
+       "label": "на корпусе",
+       "count": 217
+      },
+      {
+       "id": "4vw",
+       "label": "на рукоятке",
+       "count": 70
+      },
+      {
+       "id": "cr",
+       "label": "нет",
+       "count": 137
+      }
+     ],
+     "selected": [],
+     "default": []
+    },
+    {
+     "type": "checkbox",
+     "id": "f[of]",
+     "label": "Фильтр тонкой очистки (HEPA)",
+     "description": "<span id=\"as-u8eDXe\"></span>",
+     "isSpec": true,
+     "top": [],
+     "variants": [
+      {
+       "id": "21",
+       "label": "есть",
+       "count": 313
+      },
+      {
+       "id": "cr",
+       "label": "нет",
+       "count": 68
+      }
+     ],
+     "selected": [],
+     "default": []
+    },
+    {
+     "type": "range-radio",
+     "id": "fr[ob]",
+     "label": "Потребляемая мощность (Вт)",
+     "description": "<span id=\"as-SMl6Xs\"></span>",
+     "isSpec": true,
+     "variants": [
+      {
+       "id": "375968c4724f02e03f785d44dcc43c90",
+       "label": "Менее 500",
+       "count": 22,
+       "min": null,
+       "max": 500
+      },
+      {
+       "id": "6aa0bd48b12a04da0bcc645b9faeb54a",
+       "label": "501 - 1 000",
+       "count": 65,
+       "min": 501,
+       "max": 1000
+      },
+      {
+       "id": "bc29fd4169bbb9b572c7ec7f0b74094a",
+       "label": "1 001 - 1 500",
+       "count": 21,
+       "min": 1001,
+       "max": 1500
+      },
+      {
+       "id": "54016dfbb8823dd830aecfa153344a04",
+       "label": "1 501 - 2 000",
+       "count": 201,
+       "min": 1501,
+       "max": 2000
+      },
+      {
+       "id": "6686b508c59e6e78abaa15306d60eab8",
+       "label": "2 001 - 3 000",
+       "count": 98,
+       "min": 2001,
+       "max": 3000
+      },
+      {
+       "id": "46d4bf9bb2d7ca6440ac846600cf382a",
+       "label": "3 001 и более",
+       "count": 2,
+       "min": 3001,
+       "max": null
+      }
+     ],
+     "emptyVariantLabel": "Все",
+     "min": 170,
+     "max": 3500,
+     "minSelected": null,
+     "maxSelected": null,
+     "selected": null
+    },
+    {
+     "type": "checkbox",
+     "id": "f[om]",
+     "label": "Насадки в комплекте",
+     "description": "<span id=\"as-xdVjN9\"></span>",
+     "isSpec": true,
+     "top": [],
+     "variants": [
+      {
+       "id": "h84w",
+       "label": "2-в-1 для уборки мебели",
+       "count": 1
+      },
+      {
+       "id": "n4t0",
+       "label": "адаптер для твердых покрытий",
+       "count": 2
+      },
+      {
+       "id": "3ofm",
+       "label": "большая круглая нейлоновая щетка",
+       "count": 1
+      },
+      {
+       "id": "1rd4",
+       "label": "большая насадка",
+       "count": 4
+      },
+      {
+       "id": "j02a",
+       "label": "большая распылительная насадка",
+       "count": 2
+      },
+      {
+       "id": "q92w",
+       "label": "большая щетка с ворсом",
+       "count": 4
+      },
+      {
+       "id": "t1u6",
+       "label": "ворсовая накладка",
+       "count": 1
+      },
+      {
+       "id": "1is1",
+       "label": "ворсовая щетка",
+       "count": 9
+      },
+      {
+       "id": "ov6h",
+       "label": "ворсовая щетка для влажной",
+       "count": 1
+      },
+      {
+       "id": "ou2b",
+       "label": "ворсовая щетка для влажной уборки",
+       "count": 2
+      },
+      {
+       "id": "3bxe",
+       "label": "встроенная щетка",
+       "count": 4
+      },
+      {
+       "id": "7q45",
+       "label": "двухпозиционная насадка",
+       "count": 9
+      }
+     ],
+     "selected": [],
+     "default": []
+    },
+    {
+     "type": "checkbox",
+     "id": "f[ol]",
+     "label": "Турбощетка в комплекте",
+     "description": "<span id=\"as-5UGfya\"></span>",
+     "isSpec": true,
+     "top": [],
+     "variants": [
+      {
+       "id": "21",
+       "label": "есть",
+       "count": 96
+      },
+      {
+       "id": "cr",
+       "label": "нет",
+       "count": 316
+      }
+     ],
+     "selected": [],
+     "default": []
+    },
+    {
+     "type": "range-radio",
+     "id": "fr[f0]",
+     "label": "Уровень шума (дБ)",
+     "description": "<span id=\"as-9Ww9pi\"></span>",
+     "isSpec": true,
+     "variants": [
+      {
+       "id": "b727ee8bc086c48afd2d3ad8f77c54cb",
+       "label": "Менее 65",
+       "count": 4,
+       "min": null,
+       "max": 65
+      },
+      {
+       "id": "7ac243bdff83b7bf7caf2a3e4c40bc0f",
+       "label": "65.1 - 70",
+       "count": 12,
+       "min": 65.1,
+       "max": 70
+      },
+      {
+       "id": "e08acedd72e03ff7c4600f33489e9fdb",
+       "label": "70.1 - 75",
+       "count": 35,
+       "min": 70.1,
+       "max": 75
+      },
+      {
+       "id": "cc8cda2c8a595e13f785af0cb686eb35",
+       "label": "75.1 - 80",
+       "count": 125,
+       "min": 75.1,
+       "max": 80
+      },
+      {
+       "id": "2c0409f8060f0f531e968501afc0bab8",
+       "label": "80.1 и более",
+       "count": 132,
+       "min": 80.1,
+       "max": null
+      }
+     ],
+     "emptyVariantLabel": "Все",
+     "min": 60,
+     "max": 88,
+     "minSelected": null,
+     "maxSelected": null,
+     "selected": null
+    }
+   ],
+   "top": [
+    {
+     "type": "radio",
+     "id": "order",
+     "label": "Сортировка",
+     "variants": [
+      {
+       "id": "price-asc",
+       "label": "Сначала недорогие",
+       "count": null
+      },
+      {
+       "id": "price-desc",
+       "label": "Сначала дорогие",
+       "count": null
+      },
+      {
+       "id": "popular",
+       "label": "Сначала популярные",
+       "count": null
+      },
+      {
+       "id": "new",
+       "label": "По новинкам",
+       "count": null
+      },
+      {
+       "id": "discount",
+       "label": "По скидке (%)",
+       "count": null
+      },
+      {
+       "id": "opinion",
+       "label": "По количеству отзывов",
+       "count": null
+      },
+      {
+       "id": "rating",
+       "label": "Сначала с лучшей оценкой",
+       "count": null
+      }
+     ],
+     "selected": "popular",
+     "default": "popular"
+    }
+   ],
+   "pageTop": [
+    {
+     "type": "category-tabs-top-page",
+     "id": "category",
+     "label": "Категории",
+     "variants": [
+      {
+       "id": "17a8cd3716404e77",
+       "label": "Бытовые напольные пылесосы",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/40/40/acdb321c3cd2acab43460751aa24c1c3/15fa26cefad87b4f0be95aba288fa055fb94e77e5379a7dcc2afd45ebc312a9a.jpg"
+      },
+      {
+       "id": "17a8face16404e77",
+       "label": "Роботы-пылесосы",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/40/40/adda73c63d6047c783854394f3fd26c6/245567092cfe646ea84e843fe16a9e567a32a839e67c530a5a0cd406f3f9b928.jpg"
+      },
+      {
+       "id": "d79905f0113ab6df",
+       "label": "Вертикальные пылесосы",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/40/40/beb69596155eb6926f17cd3ace83cc56/e38da301d0e84be43e63f55a55506c1a9e6dd1558f7c90ce60ef88eba9beee78.jpg"
+      },
+      {
+       "id": "17aa321816404e77",
+       "label": "Строительные и хозяйственные пылесосы",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/40/40/75b71a259b9321bda06e9326f30ae1cc/3855a3ab49da100adf505b05f48c8a6f052de7afa447419ffefac0522cb6002d.jpg"
+      },
+      {
+       "id": "eebb2839c5cc08cf",
+       "label": "Ручные пылесосы",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/40/40/dfe364bc9d6cf850ebee237665f769f1/1f2901edc9c2b0a40b6506eca3efe87dbf138cbd53035e8de59a7be0f7cc3a1c.jpg"
+      },
+      {
+       "id": "b24578b086127fd7",
+       "label": "Фильтры для пылесосов",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/40/40/a8f0c4ad3e1c0129f409fe28c6e6b7c5/c7b8f7d15a691aa9e5699e654e6e97df507705fe7c0f744be098f67acb1a0b81.jpg"
+      },
+      {
+       "id": "c898d75b86127fd7",
+       "label": "Насадки для пылесосов",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/40/40/21e1d0942d724a8410d2a744ec6fe73f/61935ab0b9dff68f4e6a70ffa92ec6592145910b221d9a853624acc3b01ed8ba.jpg"
+      },
+      {
+       "id": "e1071d0386127fd7",
+       "label": "Прочие аксессуары для пылесосов",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/40/40/28451485aa1fb1e5cf31f28877be017f/6ca0d2fe74750797d34e539420a5c73dc45b603fa1a9bb2538c66ebbf7fc739d.jpg"
+      },
+      {
+       "id": "eeba9d61293fb7cb",
+       "label": "Мешки для строительных пылесосов",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/40/40/111cfac25cb2661041bd8a16dc71aa0b/cee5ebba8efa65de05c7d2a476de9cb7515fc7715c824bc5750517c8acd9ad7d.jpg"
+      },
+      {
+       "id": "a3cc89b2748b9680",
+       "label": "Фильтры для строительных пылесосов",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/40/40/8c53d8a56ca2000dfe1f6929ebe27b02/5d4eb60db0c3b01bad5e3a82aec05ab4cc1cafdf6acba92aeb6181699afce5e5.jpg"
+      },
+      {
+       "id": "9a5fd25e230a7c4e",
+       "label": "Фильтры для роботов-пылесосов",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/40/40/8efc39f2c12d2e3a53c75887571bff9d/54567d5d65849e1ff87f8d54290529c563c150b5889d767451b9546341a936fd.jpg"
+      },
+      {
+       "id": "f0c14a7245984671",
+       "label": "Салфетки для роботов-пылесосов",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/40/40/636164a0e9a22039d9c79affbbe10493/2688a38b7488bab2bb0e22fe50c430f1d6b83e77514d322f1744470f5ff5fa41.jpg"
+      },
+      {
+       "id": "9c5cbc01e85fc222",
+       "label": "Пылесборники для роботов-пылесосов",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/40/40/18d201fe6bae14238cbe68df65947283/14c039e7549591e26935f4d5e44807269d92d2e62e9b5282f2daa79dfc855705.jpg"
+      },
+      {
+       "id": "4d0d3140e5fa24fd",
+       "label": "Станции самоочистки для роботов пылесосов",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/40/40/c49a322e0e438ae812158ada988a0467/029fcb947a3cc7b334c3e04f0c5db431d04c606ddc10fb77a56b7972af10183b.jpg"
+      },
+      {
+       "id": "734e4ec53472823d",
+       "label": "Насадки и щетки для роботов-пылесосов",
+       "count": null,
+       "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/40/40/64e2f41537834856f5bce178a32ecead/046423f956b21dfc269940df27f0f0a86187ffc6f14566c7a32c16a382087ea9.jpg"
+      }
+     ],
+     "selected": [
+      "17a8cd3716404e77"
+     ]
+    }
+   ]
+  },
+  "extendedFiltersUrl": "/catalog/search/filters-extended/?category=17a8cd37-1640-11e5-a679-00259074e77d&q=%D0%BF%D1%8B%D0%BB%D0%B5%D1%81%D0%BE%D1%81"
+ },
+ "message": "",
+ "errors": []
+}

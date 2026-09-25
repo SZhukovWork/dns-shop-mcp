@@ -1,0 +1,535 @@
+{
+ "message": "",
+ "data": {
+  "filtersCount": {
+   "grades": [
+    {
+     "grade": 1,
+     "count": 18
+    },
+    {
+     "grade": 2,
+     "count": 1
+    },
+    {
+     "grade": 3,
+     "count": 4
+    },
+    {
+     "grade": 4,
+     "count": 31
+    },
+    {
+     "grade": 5,
+     "count": 623
+    }
+   ],
+   "hasPhoto": 17,
+   "hasVideo": 1
+  },
+  "opinions": [
+   {
+    "id": "6de8abb6-fc9d-41e5-981d-0fc6bdd86808",
+    "productId": "9d624585-5873-11ef-9250-0050569d5825",
+    "productSearchUid": "9d6245855873d582",
+    "productName": "Пылесос  Philips FC9734/01 фиолетовый",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/4580693778fb31658fdd041fb6c2f307/3627cf654f3a582f95765af9b1acbf22fa9ef043ecb33448aa02f227f53e75a2.jpg",
+    "rating": 5,
+    "characteristicGrades": [
+     {
+      "title": "Результат использования",
+      "value": 5
+     },
+     {
+      "title": "Удобство передвижения",
+      "value": 5
+     },
+     {
+      "title": "Бесшумность",
+      "value": 4
+     },
+     {
+      "title": "Мощность",
+      "value": 5
+     },
+     {
+      "title": "Внешний вид",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2024-12-20T11:23:38",
+    "insertStampFormatted": "20.12.2024",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": true,
+    "plus": "<p>Очень мощный, симпатичный и удобный</p>",
+    "minus": "<p>для себя не нашла, если появятся дополню)</p>",
+    "comment": "<p>Перешла с веритикального пылесоса, так как тот уже совсем не справляется со своей задачей. Долго выбирала и боялась, что попадется мощный только на словах, но нет. Душу высосет из кого угодно в прямом смысле. Страх кота к этому пылесосу оправдан))</p><p>Шумноват, да, особенно с турбощеткой (она к слову ковер вычистила идеально! а у нас два кота и шерсти всегда много), но убирает просто на 1000 из 10. Поэтому шум меня лично не особо смущает.</p><p>Покупкой более чем довольна, давно не убиралась с таким удовольствием!</p><p>Если выбираете сейчас - знайте, в уборке он вас точно не разочарует)</p>",
+    "votes": {
+     "positive": 68,
+     "negative": 1,
+     "userVote": 0
+    },
+    "usersCommentsCount": 2,
+    "period": "Менее месяца",
+    "productSpecs": [],
+    "additions": [],
+    "images": [
+     {
+      "id": "55f10f16-57e9-4256-a215-a3eba359b4c3",
+      "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/995b93bac42e603f3c0a007fc3711b37/315ed458d39757a83519f5b0f3aecf30e5d95fa18494b9e6b06c4ecabbac3854.jpeg"
+     }
+    ],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {},
+    "videos": [],
+    "canDelete": false
+   },
+   {
+    "id": "e56c98b0-915b-4b9d-9726-295eb44175d8",
+    "productId": "9d624585-5873-11ef-9250-0050569d5825",
+    "productSearchUid": "9d6245855873d582",
+    "productName": "Пылесос  Philips FC9734/01 фиолетовый",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/4580693778fb31658fdd041fb6c2f307/3627cf654f3a582f95765af9b1acbf22fa9ef043ecb33448aa02f227f53e75a2.jpg",
+    "rating": 5,
+    "characteristicGrades": [
+     {
+      "title": "Результат использования",
+      "value": 5
+     },
+     {
+      "title": "Удобство передвижения",
+      "value": 5
+     },
+     {
+      "title": "Бесшумность",
+      "value": 5
+     },
+     {
+      "title": "Мощность",
+      "value": 5
+     },
+     {
+      "title": "Внешний вид",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2026-09-22T22:08:06",
+    "insertStampFormatted": "22.09.2026",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": false,
+    "plus": "<p>Мощный,на самом деле не ожидал,что настолько</p>",
+    "minus": "<p>Пока нет</p>",
+    "comment": "<p>Первый день,пока восторг, дальше видно будет</p>",
+    "votes": {
+     "positive": 0,
+     "negative": 0,
+     "userVote": 0
+    },
+    "usersCommentsCount": 0,
+    "period": "Менее месяца",
+    "productSpecs": [],
+    "additions": [],
+    "images": [],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {},
+    "videos": [],
+    "canDelete": false
+   },
+   {
+    "id": "89efe7d7-aa07-4749-9bc1-e5aea4f944e7",
+    "productId": "9d624585-5873-11ef-9250-0050569d5825",
+    "productSearchUid": "9d6245855873d582",
+    "productName": "Пылесос  Philips FC9734/01 фиолетовый",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/4580693778fb31658fdd041fb6c2f307/3627cf654f3a582f95765af9b1acbf22fa9ef043ecb33448aa02f227f53e75a2.jpg",
+    "rating": 5,
+    "characteristicGrades": [
+     {
+      "title": "Результат использования",
+      "value": 5
+     },
+     {
+      "title": "Удобство передвижения",
+      "value": 5
+     },
+     {
+      "title": "Бесшумность",
+      "value": 4
+     },
+     {
+      "title": "Мощность",
+      "value": 5
+     },
+     {
+      "title": "Внешний вид",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2026-08-27T00:18:17",
+    "insertStampFormatted": "27.08.2026",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": false,
+    "plus": "<p>Сосёт дурью! Даже на половине мощности!</p>",
+    "minus": "<p>При вынутом контейнере-пылесборнике не за что ухватиться для переноски пылесоса, так как ручка фиксируется на данном контейнере и без контейнера её просто отломаешь, взявшись за неё. А контейнер периодически будет отсутствовать на время сушки после ополаскивания от пыли. Так что перед съемом контейнера для чистки и промывки, пылесос нужно сразу поставить на место хранение.</p>",
+    "comment": "",
+    "votes": {
+     "positive": 2,
+     "negative": 0,
+     "userVote": 0
+    },
+    "usersCommentsCount": 0,
+    "period": "Менее месяца",
+    "productSpecs": [],
+    "additions": [],
+    "images": [],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {},
+    "videos": [],
+    "canDelete": false
+   },
+   {
+    "id": "d1bb3a50-8c85-41e8-ba50-7540560e3c54",
+    "productId": "9d624585-5873-11ef-9250-0050569d5825",
+    "productSearchUid": "9d6245855873d582",
+    "productName": "Пылесос  Philips FC9734/01 фиолетовый",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/4580693778fb31658fdd041fb6c2f307/3627cf654f3a582f95765af9b1acbf22fa9ef043ecb33448aa02f227f53e75a2.jpg",
+    "rating": 5,
+    "characteristicGrades": [
+     {
+      "title": "Результат использования",
+      "value": 5
+     },
+     {
+      "title": "Удобство передвижения",
+      "value": 5
+     },
+     {
+      "title": "Бесшумность",
+      "value": 4
+     },
+     {
+      "title": "Мощность",
+      "value": 5
+     },
+     {
+      "title": "Внешний вид",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2026-08-26T09:47:08",
+    "insertStampFormatted": "26.08.2026",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": false,
+    "plus": "<p>\"Наружу\" не выпускает, отличные щетки, удобная ручка, отличные уровни мощности</p>",
+    "minus": "<p>Защелка ручки на корпусе - надо приноровиться, раза с 4-7 удается поставить в прорезь</p>",
+    "comment": "",
+    "votes": {
+     "positive": 1,
+     "negative": 0,
+     "userVote": 0
+    },
+    "usersCommentsCount": 0,
+    "period": "Менее месяца",
+    "productSpecs": [],
+    "additions": [],
+    "images": [],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {},
+    "videos": [],
+    "canDelete": false
+   },
+   {
+    "id": "916a90d7-cf0c-4cc8-8804-936e62cf871d",
+    "productId": "9d624585-5873-11ef-9250-0050569d5825",
+    "productSearchUid": "9d6245855873d582",
+    "productName": "Пылесос  Philips FC9734/01 фиолетовый",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/4580693778fb31658fdd041fb6c2f307/3627cf654f3a582f95765af9b1acbf22fa9ef043ecb33448aa02f227f53e75a2.jpg",
+    "rating": 3,
+    "characteristicGrades": [
+     {
+      "title": "Мощность",
+      "value": 3
+     },
+     {
+      "title": "Внешний вид",
+      "value": 4
+     },
+     {
+      "title": "Бесшумность",
+      "value": 1
+     },
+     {
+      "title": "Удобство передвижения",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2026-08-25T18:55:03",
+    "insertStampFormatted": "25.08.2026",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": false,
+    "plus": "<p>Пылесос выбирала долго, отзывы помогали, поэтому хочу тоже оставить свой.</p><p>Из плюсов</p><p>1. Маневренный</p><p>2. Удобное хранение насадок в самом пылесосе</p><p>3. Хорошая турбощетка</p>",
+    "minus": "<p>Когда я покупала пылесос , я осознавала все недостатки, а именно:</p><p>1. Защелки. Выглядят хлипко, да и вообще не самая надежная конструкция, что ж посмотрим, сколько проживут. Кто покупает, имейте в виду: если с первого раза не защелкнулось, попробуйте чуть провернуть,  и все получится</p><p>2. Контейнер для пыли не особо удобный</p><p>3. Встроенная щетка для пыли тоже не очень удобная</p><p>Все это я знала заранее и думаю привыкну со временем. Самое главное, почему я выбрала именно этот пылесос -  это потому что все хором писали про МОЩНОСТЬ ПРОСТО ВАУ НЕВЕРОЯТНУЮ. Хочу сказать, что именно это меня разочаровало больше всего. Она ОБЫЧНАЯ!!! Да, пылесос присасывается к ковру. А толку-то? Кто-то писал, что прямо видит, как он засасывает пыль в радиусе 10 см. Полное вранье. И еще: совершенно не поняла щетку три актив. Шкрябает по полу, грохочет, она как-то сделана под углом, сделала фото, но там не особо понятно.</p>",
+    "comment": "<p>Выбирала между этим пылесосом и lg compressor. Не знаю, понравился бы lg больше, хотя даже визуально качество его исполнения лучше, но уже все. Сбили с толку хвалебные отзывы про мощность. Что ж, буду пользоваться, привыкать. Второй раз точно бы не взяла этот пылесос</p>",
+    "votes": {
+     "positive": 6,
+     "negative": 2,
+     "userVote": 0
+    },
+    "usersCommentsCount": 2,
+    "period": "Менее месяца",
+    "productSpecs": [],
+    "additions": [],
+    "images": [
+     {
+      "id": "af593546-3bbd-4d6a-af02-8a694a54b397",
+      "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/d4a87b7b113b1d5c78a499f883f31984/c8852db93119fefbae2d6dcf7ea0cde56f5cd12923096ae2299d640b84e8c416.jpeg"
+     },
+     {
+      "id": "2fafd08d-4116-4d69-ac26-abd29e5a71c9",
+      "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/89a0f3ab2c26fe3fad39438010ca77ed/25c42e6e90d410d67f44005770f0c81168505e905d5f08e11a08ec248a269cf4.jpeg"
+     }
+    ],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {},
+    "videos": [],
+    "canDelete": false
+   },
+   {
+    "id": "a847db7f-cb9c-4bf9-a200-8cef6e47ddb0",
+    "productId": "9d624585-5873-11ef-9250-0050569d5825",
+    "productSearchUid": "9d6245855873d582",
+    "productName": "Пылесос  Philips FC9734/01 фиолетовый",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/4580693778fb31658fdd041fb6c2f307/3627cf654f3a582f95765af9b1acbf22fa9ef043ecb33448aa02f227f53e75a2.jpg",
+    "rating": 5,
+    "characteristicGrades": [
+     {
+      "title": "Результат использования",
+      "value": 5
+     },
+     {
+      "title": "Удобство передвижения",
+      "value": 5
+     },
+     {
+      "title": "Мощность",
+      "value": 5
+     },
+     {
+      "title": "Внешний вид",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2026-08-25T00:51:19",
+    "insertStampFormatted": "25.08.2026",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": false,
+    "plus": "<p>Одни сплошные плюсы👍</p>",
+    "minus": "<p>Нет</p>",
+    "comment": "<p>Прекрасный пылесос, очень мощный просто зверь👍даже сзади есть хранение для щеток и крепление для трубы. Все продумано до мелочей👍</p>",
+    "votes": {
+     "positive": 0,
+     "negative": 0,
+     "userVote": 0
+    },
+    "usersCommentsCount": 0,
+    "period": "Менее месяца",
+    "productSpecs": [],
+    "additions": [],
+    "images": [],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {},
+    "videos": [
+     {
+      "id": "0152a3d4-bf03-4057-a575-814f4da2fc5d",
+      "url": "https://etopbunyc3.a.trbcdn.net/cdnsystem/video-opinions/2026/08/24/0152a3d4-bf03-4057-a575-814f4da2fc5d_1080p_1787601485.mp4",
+      "isApproved": true,
+      "hlsUrl": "https://etopbunyc3.a.trbcdn.net/,cdnsystem/video-opinions/2026/08/24/0152a3d4-bf03-4057-a575-814f4da2fc5d_1080p_1787601485,cdnsystem/video-opinions/2026/08/24/0152a3d4-bf03-4057-a575-814f4da2fc5d_720p_1787601485,cdnsystem/video-opinions/2026/08/24/0152a3d4-bf03-4057-a575-814f4da2fc5d_480p_1787601485,cdnsystem/video-opinions/2026/08/24/0152a3d4-bf03-4057-a575-814f4da2fc5d_360p_1787601485,cdnsystem/video-opinions/2026/08/24/0152a3d4-bf03-4057-a575-814f4da2fc5d_240p_1787601485,.mp4.urlset/playlist.m3u8"
+     }
+    ],
+    "canDelete": false
+   }
+  ],
+  "totalCount": 677,
+  "hasSeveralModels": false,
+  "productUrls": null,
+  "averageRating": 4.83,
+  "grades": [
+   {
+    "grade": 1,
+    "count": 18,
+    "percentage": "2.66"
+   },
+   {
+    "grade": 2,
+    "count": 1,
+    "percentage": "0.15"
+   },
+   {
+    "grade": 3,
+    "count": 4,
+    "percentage": "0.59"
+   },
+   {
+    "grade": 4,
+    "count": 31,
+    "percentage": "4.58"
+   },
+   {
+    "grade": 5,
+    "count": 623,
+    "percentage": "92.02"
+   }
+  ],
+  "characteristicGrades": [
+   {
+    "title": "Внешний вид",
+    "value": 4.9
+   },
+   {
+    "title": "Мощность",
+    "value": 5
+   },
+   {
+    "title": "Бесшумность",
+    "value": 4.1
+   },
+   {
+    "title": "Удобство передвижения",
+    "value": 4.8
+   },
+   {
+    "title": "Результат использования",
+    "value": 4.9
+   }
+  ],
+  "tagCloudPositive": [
+   "длинный шнур",
+   "хороший пылесос"
+  ],
+  "tagCloudNeutral": [
+   "мощность всасывания",
+   "щетка на ручке",
+   "щётка на ручке"
+  ]
+ },
+ "assets": {
+  "inlineJsHead": [],
+  "jsFiles": [],
+  "inlineCss": [],
+  "inlineJs": [],
+  "cssFiles": []
+ }
+}

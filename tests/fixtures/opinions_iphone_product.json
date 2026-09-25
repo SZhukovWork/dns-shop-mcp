@@ -1,0 +1,650 @@
+{
+ "message": "",
+ "data": {
+  "filtersCount": {
+   "grades": [
+    {
+     "grade": 1,
+     "count": 8
+    },
+    {
+     "grade": 2,
+     "count": 1
+    },
+    {
+     "grade": 3,
+     "count": 4
+    },
+    {
+     "grade": 4,
+     "count": 15
+    },
+    {
+     "grade": 5,
+     "count": 424
+    }
+   ],
+   "hasPhoto": 14,
+   "hasVideo": 0
+  },
+  "opinions": [
+   {
+    "id": "6bc453f0-b4dd-4c15-b611-c7dd52fa0377",
+    "productId": "7924fcf7-6f27-11ef-9271-0050569d0a4d",
+    "productSearchUid": "7924fcf76f27d0a4",
+    "productName": "6.1\" Смартфон Apple iPhone 16 128 ГБ черный",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/f19fc8e8c16f683c567a6854367b9107/14ce8c6a5fbaef30feb3cb6b7d742546c045c44eb9207be4acec68cade72a7cf.jpg",
+    "rating": 5,
+    "characteristicGrades": [
+     {
+      "title": "Батарея",
+      "value": 5
+     },
+     {
+      "title": "Качество связи",
+      "value": 5
+     },
+     {
+      "title": "Камера",
+      "value": 5
+     },
+     {
+      "title": "Производительность",
+      "value": 5
+     },
+     {
+      "title": "Внешний вид и размер",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2024-11-10T23:05:15",
+    "insertStampFormatted": "10.11.2024",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": true,
+    "plus": "<p>Красивый цвет, матовое стекло в сочетании с глянцевым блоком камер выглядит очень здорово. Новая кнопка действий очень удобная.</p>",
+    "minus": "<p>Недостаток, пожалуй это все тот же экран 60гц, хотя у меня он и не вызывает никакого дискомфорта, но все же 120гц на прошках ощущается куда интереснее.</p>",
+    "comment": "<p>Перешел с базового айфон 12 на такой же базовый 16. В целом айфон, как айфон, расписывать тут особо нечего, какого то восторга и вау эффекта в сравнении с 12 он не вызывает, но и не разочаровывает. Все такой же приятный в использований, уже привычный, проверенный аппарат с отличным качеством фото/видео и мощной начинкой, в общем то что мне и нужно.</p>",
+    "votes": {
+     "positive": 379,
+     "negative": 30,
+     "userVote": 0
+    },
+    "usersCommentsCount": 30,
+    "period": "Менее месяца",
+    "productSpecs": [
+     {
+      "title": "Память (ГБ)",
+      "value": "128"
+     },
+     {
+      "title": "Цвет",
+      "value": "черный"
+     },
+     {
+      "title": "Модель",
+      "value": "A3287 (Nano-SIM + eSIM)"
+     }
+    ],
+    "additions": [
+     {
+      "guid": "135a79c8-a8e2-41c9-95b7-2147c41a52f5",
+      "text": "После 6 месяцев использования, сменил этот замечательный 16й айфон на 16 pro, но ни в коем случае не потому, что 16 чем то плох, так вышло.  Теперь с уверенностью и на собственном опыте могу сказать, что переплата за эти 120герц, которые многих так беспокоят, телевик, и прочие мелочи, точно того не стоят! \r\nДа, 120 смотрятся пободрее, особенно если сравнивать 1к1 держа оба телефона в руках, но в реальном использовании разница ощущается не особо сильно и вообще не критично. Так что если сомневаетесь на счет покупки базовой версии, не парьтесь, смело берите, телефон огонь! ..ну или ждите уже 17й :) \r\nЕдинственный более менее весомый аргумент в пользу прошки, это батарейка! по ощущениям реально держит подольше, но это в принципе и все.",
+      "insertStamp": "2025-09-08 16:18:23.361808 +0000 UTC",
+      "insertStampFormatted": "8 Сентября 2025",
+      "date": "Дополнение от 8 Сентября 2025",
+      "isEditable": false,
+      "isDeletable": false,
+      "images": [
+       {
+        "id": "b70992a2-3fda-47f6-8fb9-dcadba35e466",
+        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/72d44afd70320dc248fdedbcafe118ea/e87b43ae2b0df3fda783a132fb0c4d0525da5494ff9b86ce278df666d46c2a4a.jpg",
+        "isApproved": true
+       }
+      ]
+     }
+    ],
+    "images": [
+     {
+      "id": "42fab004-535f-4aa4-bea4-dcb75cb5939d",
+      "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/5499e9a2a72bf47ec1b37312e4d7ce8f/22b22bbfb92a54ce07caa28af13c2dbe09a8095c8ee2b932d5334736739b84ed.jpeg"
+     }
+    ],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {
+     "Модель": "A3287 (Nano-SIM + eSIM)",
+     "Память (ГБ)": "128",
+     "Цвет": "черный"
+    },
+    "videos": [],
+    "canDelete": false
+   },
+   {
+    "id": "4e2761b3-ed79-4b19-84e8-03d1e2532d19",
+    "productId": "7924fcf7-6f27-11ef-9271-0050569d0a4d",
+    "productSearchUid": "7924fcf76f27d0a4",
+    "productName": "6.1\" Смартфон Apple iPhone 16 128 ГБ черный",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/f19fc8e8c16f683c567a6854367b9107/14ce8c6a5fbaef30feb3cb6b7d742546c045c44eb9207be4acec68cade72a7cf.jpg",
+    "rating": 5,
+    "characteristicGrades": [
+     {
+      "title": "Батарея",
+      "value": 5
+     },
+     {
+      "title": "Качество связи",
+      "value": 5
+     },
+     {
+      "title": "Камера",
+      "value": 5
+     },
+     {
+      "title": "Производительность",
+      "value": 5
+     },
+     {
+      "title": "Внешний вид и размер",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2026-09-24T19:57:51",
+    "insertStampFormatted": "24.09.2026",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": false,
+    "plus": "<p>Всё очень хорошо телефон покупали для дочери она довольна пользуется телефоном все функции работают хорошо</p>",
+    "minus": "",
+    "comment": "",
+    "votes": {
+     "positive": 0,
+     "negative": 0,
+     "userVote": 0
+    },
+    "usersCommentsCount": 0,
+    "period": "Менее месяца",
+    "productSpecs": [
+     {
+      "title": "Память (ГБ)",
+      "value": "128"
+     },
+     {
+      "title": "Цвет",
+      "value": "черный"
+     },
+     {
+      "title": "Модель",
+      "value": "A3287 (Nano-SIM + eSIM)"
+     }
+    ],
+    "additions": [],
+    "images": [],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {
+     "Модель": "A3287 (Nano-SIM + eSIM)",
+     "Память (ГБ)": "128",
+     "Цвет": "черный"
+    },
+    "videos": [],
+    "canDelete": false
+   },
+   {
+    "id": "b19f6f37-af5b-4e95-a7a6-0c5f8b48bda4",
+    "productId": "7924fcf7-6f27-11ef-9271-0050569d0a4d",
+    "productSearchUid": "7924fcf76f27d0a4",
+    "productName": "6.1\" Смартфон Apple iPhone 16 128 ГБ черный",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/f19fc8e8c16f683c567a6854367b9107/14ce8c6a5fbaef30feb3cb6b7d742546c045c44eb9207be4acec68cade72a7cf.jpg",
+    "rating": 3,
+    "characteristicGrades": [
+     {
+      "title": "Батарея",
+      "value": 5
+     },
+     {
+      "title": "Качество связи",
+      "value": 5
+     },
+     {
+      "title": "Камера",
+      "value": 5
+     },
+     {
+      "title": "Производительность",
+      "value": 3
+     },
+     {
+      "title": "Внешний вид и размер",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2026-08-17T19:12:52",
+    "insertStampFormatted": "17.08.2026",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": false,
+    "plus": "",
+    "minus": "<p>Иногда начинает хрипеть динамик</p>",
+    "comment": "<p>что делать в такой ситуации?</p>",
+    "votes": {
+     "positive": 0,
+     "negative": 1,
+     "userVote": 0
+    },
+    "usersCommentsCount": 0,
+    "period": "Менее месяца",
+    "productSpecs": [
+     {
+      "title": "Память (ГБ)",
+      "value": "128"
+     },
+     {
+      "title": "Цвет",
+      "value": "черный"
+     },
+     {
+      "title": "Модель",
+      "value": "A3287 (Nano-SIM + eSIM)"
+     }
+    ],
+    "additions": [],
+    "images": [],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {
+     "Модель": "A3287 (Nano-SIM + eSIM)",
+     "Память (ГБ)": "128",
+     "Цвет": "черный"
+    },
+    "videos": [],
+    "canDelete": false
+   },
+   {
+    "id": "a1e7af56-1fc8-4abf-996d-f13f089a1186",
+    "productId": "7924fcf7-6f27-11ef-9271-0050569d0a4d",
+    "productSearchUid": "7924fcf76f27d0a4",
+    "productName": "6.1\" Смартфон Apple iPhone 16 128 ГБ черный",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/f19fc8e8c16f683c567a6854367b9107/14ce8c6a5fbaef30feb3cb6b7d742546c045c44eb9207be4acec68cade72a7cf.jpg",
+    "rating": 4,
+    "characteristicGrades": [
+     {
+      "title": "Батарея",
+      "value": 5
+     },
+     {
+      "title": "Качество связи",
+      "value": 4
+     },
+     {
+      "title": "Камера",
+      "value": 5
+     },
+     {
+      "title": "Производительность",
+      "value": 5
+     },
+     {
+      "title": "Внешний вид и размер",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2026-08-10T15:07:12",
+    "insertStampFormatted": "10.08.2026",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": false,
+    "plus": "",
+    "minus": "",
+    "comment": "<p>купил 8 августа в настройках написано что первая активация была в феврале</p>",
+    "votes": {
+     "positive": 3,
+     "negative": 0,
+     "userVote": 0
+    },
+    "usersCommentsCount": 1,
+    "period": "Менее месяца",
+    "productSpecs": [
+     {
+      "title": "Модель",
+      "value": "A3287 (Nano-SIM + eSIM)"
+     },
+     {
+      "title": "Память (ГБ)",
+      "value": "128"
+     },
+     {
+      "title": "Цвет",
+      "value": "черный"
+     }
+    ],
+    "additions": [],
+    "images": [
+     {
+      "id": "597deec0-de24-4e73-8596-d5032b8dbd7f",
+      "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/a2a897fb47859422e5caa2fc0fa6bbf5/707e29b96b9abf2a0286b82633582b38d94eb1b20a954e491b72dca467380c61.jpeg"
+     }
+    ],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {
+     "Модель": "A3287 (Nano-SIM + eSIM)",
+     "Память (ГБ)": "128",
+     "Цвет": "черный"
+    },
+    "videos": [],
+    "canDelete": false
+   },
+   {
+    "id": "bebd8e78-1da3-494c-a0f4-fcd9a696a8b2",
+    "productId": "7924fcf7-6f27-11ef-9271-0050569d0a4d",
+    "productSearchUid": "7924fcf76f27d0a4",
+    "productName": "6.1\" Смартфон Apple iPhone 16 128 ГБ черный",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/f19fc8e8c16f683c567a6854367b9107/14ce8c6a5fbaef30feb3cb6b7d742546c045c44eb9207be4acec68cade72a7cf.jpg",
+    "rating": 2,
+    "characteristicGrades": [
+     {
+      "title": "Батарея",
+      "value": 3
+     },
+     {
+      "title": "Качество связи",
+      "value": 5
+     },
+     {
+      "title": "Камера",
+      "value": 2
+     },
+     {
+      "title": "Производительность",
+      "value": 4
+     }
+    ],
+    "insertStamp": "2026-08-07T12:29:46",
+    "insertStampFormatted": "07.08.2026",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": false,
+    "plus": "",
+    "minus": "<p>Телефон с обновлением операционной системы стал греться как печка даже в обычных задачах. Компания славится своей оптимизированной, не лагающей операционной системой. Это просто позор, а камеры и производительность телефона не стоит своих денег.</p>",
+    "comment": "",
+    "votes": {
+     "positive": 1,
+     "negative": 0,
+     "userVote": 0
+    },
+    "usersCommentsCount": 0,
+    "period": "Менее месяца",
+    "productSpecs": [
+     {
+      "title": "Память (ГБ)",
+      "value": "128"
+     },
+     {
+      "title": "Цвет",
+      "value": "черный"
+     },
+     {
+      "title": "Модель",
+      "value": "A3287 (Nano-SIM + eSIM)"
+     }
+    ],
+    "additions": [],
+    "images": [],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {
+     "Модель": "A3287 (Nano-SIM + eSIM)",
+     "Память (ГБ)": "128",
+     "Цвет": "черный"
+    },
+    "videos": [],
+    "canDelete": false
+   },
+   {
+    "id": "2788092c-5a0a-423e-a043-097b64d20557",
+    "productId": "7924fcf7-6f27-11ef-9271-0050569d0a4d",
+    "productSearchUid": "7924fcf76f27d0a4",
+    "productName": "6.1\" Смартфон Apple iPhone 16 128 ГБ черный",
+    "productImage": "https://c.dns-shop.ru/thumb/st1/fit/100/100/f19fc8e8c16f683c567a6854367b9107/14ce8c6a5fbaef30feb3cb6b7d742546c045c44eb9207be4acec68cade72a7cf.jpg",
+    "rating": 5,
+    "characteristicGrades": [
+     {
+      "title": "Батарея",
+      "value": 5
+     },
+     {
+      "title": "Качество связи",
+      "value": 5
+     },
+     {
+      "title": "Камера",
+      "value": 5
+     },
+     {
+      "title": "Производительность",
+      "value": 5
+     },
+     {
+      "title": "Внешний вид и размер",
+      "value": 5
+     }
+    ],
+    "insertStamp": "2026-07-01T18:23:06",
+    "insertStampFormatted": "01.07.2026",
+    "source": {
+     "id": 1,
+     "title": "Dns-shop.ru",
+     "url": null,
+     "isExternal": false
+    },
+    "isUserOpinion": false,
+    "isEditable": false,
+    "canBeSupplemented": false,
+    "isTop": false,
+    "plus": "<p>Все очень нравится</p>",
+    "minus": "<p>Недостатков нет.</p>",
+    "comment": "<p>Покупался в подарок сыну</p>",
+    "votes": {
+     "positive": 1,
+     "negative": 0,
+     "userVote": 0
+    },
+    "usersCommentsCount": 1,
+    "period": "Менее месяца",
+    "productSpecs": [
+     {
+      "title": "Модель",
+      "value": "A3287 (Nano-SIM + eSIM)"
+     },
+     {
+      "title": "Память (ГБ)",
+      "value": "128"
+     },
+     {
+      "title": "Цвет",
+      "value": "черный"
+     }
+    ],
+    "additions": [],
+    "images": [],
+    "user": {
+     "administrativeStatus": "Пользователь",
+     "avatar": "",
+     "avatarUrl": "https://example.invalid/avatar.png",
+     "fingerPrint": "FAKE-FINGERPRINT-0000",
+     "id": "00000000-0000-0000-0000-000000000000",
+     "isGuest": false,
+     "isReal": true,
+     "level": 0,
+     "name": "Иван Фейков (fake@example.com, +7 900 000-00-00)",
+     "popoverUrl": "/profile/fake-user/"
+    },
+    "multiCardSpecs": {
+     "Модель": "A3287 (Nano-SIM + eSIM)",
+     "Память (ГБ)": "128",
+     "Цвет": "черный"
+    },
+    "videos": [],
+    "canDelete": false
+   }
+  ],
+  "totalCount": 452,
+  "hasSeveralModels": true,
+  "productUrls": {
+   "7924fcf7-6f27-11ef-9271-0050569d0a4d": "https://www.dns-shop.ru/product/7924fcf76f27d0a4/61-smartfon-apple-iphone-16-128-gb-cernyj"
+  },
+  "averageRating": 4.84,
+  "grades": [
+   {
+    "grade": 1,
+    "count": 8,
+    "percentage": "1.77"
+   },
+   {
+    "grade": 2,
+    "count": 1,
+    "percentage": "0.22"
+   },
+   {
+    "grade": 3,
+    "count": 4,
+    "percentage": "0.88"
+   },
+   {
+    "grade": 4,
+    "count": 15,
+    "percentage": "3.32"
+   },
+   {
+    "grade": 5,
+    "count": 424,
+    "percentage": "93.81"
+   }
+  ],
+  "characteristicGrades": [
+   {
+    "title": "Внешний вид и размер",
+    "value": 4.9
+   },
+   {
+    "title": "Производительность",
+    "value": 4.9
+   },
+   {
+    "title": "Камера",
+    "value": 4.9
+   },
+   {
+    "title": "Качество связи",
+    "value": 4.9
+   },
+   {
+    "title": "Батарея",
+    "value": 4.8
+   }
+  ],
+  "tagCloudPositive": [
+   "отличное качество",
+   "очень понравился",
+   "хорошая камера",
+   "хороший телефон"
+  ],
+  "tagCloudNeutral": [
+   "внешний вид",
+   "операционная система"
+  ]
+ },
+ "assets": {
+  "inlineJsHead": [],
+  "jsFiles": [],
+  "inlineCss": [],
+  "inlineJs": [],
+  "cssFiles": []
+ }
+}

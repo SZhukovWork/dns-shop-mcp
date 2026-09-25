@@ -1,0 +1,39 @@
+{
+ "result": true,
+ "data": {
+  "current": 15999,
+  "previous": null,
+  "min": null,
+  "onlinePay": 1600,
+  "discounts": [
+   {
+    "type": 3,
+    "amount": 1600,
+    "description": "Скидка за способ оплаты",
+    "details": {
+     "title": "Скидка за способ оплаты",
+     "content": "Стоимость товара будет снижена при условии оплаты заказа на сайте онлайн",
+     "url": "/actions/0b90bfec-b56c-11f1-94bb-0050569d9cb8/"
+    },
+    "optionalState": false,
+    "amountLabel": "1 600"
+   }
+  ]
+ },
+ "message": "",
+ "errors": [],
+ "assets": {
+  "inlineJs": [],
+  "inlineJsHead": [],
+  "inlineCss": [],
+  "jsFiles": [
+   "https://a.dns-shop.ru/static/09/qqaku3/ajax-state.js"
+  ],
+  "cssFiles": [
+   {
+    "url": "https://a.dns-shop.ru/static/09/qqaku3/css/ajax-state.css",
+    "media": null
+   }
+  ]
+ }
+}

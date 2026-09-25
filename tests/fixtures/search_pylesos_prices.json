@@ -1,0 +1,340 @@
+{
+ "5606097": {
+  "id": "ccac80f3-a655-11ef-929e-0050569d9cb8",
+  "name": "Пылесос  Samsung SC4581 черный",
+  "price": {
+   "current": 7299
+  },
+  "credit": {
+   "amount": 712,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-moRcOY\"></span>",
+  "wishlist": "<span id=\"as-tqGpWO\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "5482008": {
+  "id": "9d624585-5873-11ef-9250-0050569d5825",
+  "name": "Пылесос  Philips FC9734/01 фиолетовый",
+  "price": {
+   "current": 15999,
+   "onlinePay": 1600
+  },
+  "credit": {
+   "amount": 1560,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-Xn4Ssm\"></span>",
+  "wishlist": "<span id=\"as-Fe6akL\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "1904813": {
+  "id": "a42f53c8-4d61-11e1-a72f-001517ea834c",
+  "name": "Пылесос  Samsung SC5241 черный",
+  "price": {
+   "current": 5899
+  },
+  "credit": {
+   "amount": 575,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-mtuN6e\"></span>",
+  "wishlist": "<span id=\"as-MNtoRT\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "7999316": {
+  "id": "31745e21-06e5-11e8-aa4e-00155d03330f",
+  "name": "Пылесос  Samsung SC4520 синий",
+  "price": {
+   "current": 5899
+  },
+  "credit": {
+   "amount": 575,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-ktBcZU\"></span>",
+  "wishlist": "<span id=\"as-i6Rh8a\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "1036777": {
+  "id": "c3f69ab7-6d56-11e5-a387-00155d03361b",
+  "name": "Пылесос  Samsung SC4520 белый",
+  "price": {
+   "current": 5899
+  },
+  "credit": {
+   "amount": 575,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-ZrRbb_\"></span>",
+  "wishlist": "<span id=\"as-alCIjK\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "1098387": {
+  "id": "cb0cf530-decb-11e6-ab51-00155d03330d",
+  "name": "Пылесос  Samsung VC2500M синий",
+  "price": {
+   "current": 6499
+  },
+  "credit": {
+   "amount": 634,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-NjmEcj\"></span>",
+  "wishlist": "<span id=\"as-GUcYyv\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "1192470": {
+  "id": "41036e80-cffa-11e7-9295-00155d03330d",
+  "name": "Пылесос моющий Thomas DryBox Amfibia черный",
+  "price": {
+   "current": 37999
+  },
+  "credit": {
+   "amount": 3704,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-Z3J4Wo\"></span>",
+  "wishlist": "<span id=\"as-a_f-V3\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "5612710": {
+  "id": "649e845a-d216-11ef-92c5-0050569d9cb8",
+  "name": "Пылесос  Philips FC9571/01 черный",
+  "price": {
+   "current": 9299
+  },
+  "credit": {
+   "amount": 906,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-KwC0k9\"></span>",
+  "wishlist": "<span id=\"as-p5jda0\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "5663309": {
+  "id": "183f62ce-0702-11f1-93f9-0050569d9cb8",
+  "name": "Пылесос моющий Dreame N20 Steam черный",
+  "price": {
+   "previous": 17999,
+   "current": 15999
+  },
+  "credit": {
+   "amount": 1560,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-C2BV-u\"></span>",
+  "wishlist": "<span id=\"as-64mcHD\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "1169996": {
+  "id": "2645b79d-aa53-11e7-938d-00155d03330d",
+  "name": "Пылесос  Philips FC9728/01 красный",
+  "price": {
+   "current": 13999,
+   "onlinePay": 1400
+  },
+  "credit": {
+   "amount": 1365,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-2SVYdT\"></span>",
+  "wishlist": "<span id=\"as-vh1t3u\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "5484797": {
+  "id": "9c011990-5f76-11ef-9257-0050569d5825",
+  "name": "Пылесос  Polaris PVC 2004RI серый",
+  "price": {
+   "current": 9999
+  },
+  "credit": {
+   "amount": 975,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-0wHrkO\"></span>",
+  "wishlist": "<span id=\"as-HgalTr\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "5480835": {
+  "id": "48487b5d-5490-11ef-924c-0050569d5825",
+  "name": "Пылесос  LG VC83109UHAQ фиолетовый",
+  "price": {
+   "current": 13999
+  },
+  "credit": {
+   "amount": 1365,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-9Z3d1l\"></span>",
+  "wishlist": "<span id=\"as-6zaDkD\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "5482001": {
+  "id": "2a1cbc83-5870-11ef-924d-0050569d9cb8",
+  "name": "Пылесос  Philips FC9733/01 синий",
+  "price": {
+   "current": 15299,
+   "onlinePay": 1550
+  },
+  "credit": {
+   "amount": 1491,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-bXRIqW\"></span>",
+  "wishlist": "<span id=\"as-cWlj0C\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "1384287": {
+  "id": "ad763972-b429-11e9-a20b-00155d03332b",
+  "name": "Пылесос  DEXP V-2200VC серый",
+  "price": {
+   "current": 4899
+  },
+  "credit": {
+   "amount": 478,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-BFdnVi\"></span>",
+  "wishlist": "<span id=\"as-UdZIfo\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "1098412": {
+  "id": "7ec4385c-dece-11e6-ab51-00155d03330d",
+  "name": "Пылесос  Samsung SC18M3140VN зеленый",
+  "price": {
+   "current": 7499
+  },
+  "credit": {
+   "amount": 731,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-TGJ4mF\"></span>",
+  "wishlist": "<span id=\"as-aD6YU-\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "5459979": {
+  "id": "14db0050-119a-11ef-9209-0050569d5825",
+  "name": "Пылесос  Karcher VC 3 Plus белый",
+  "price": {
+   "previous": 12199,
+   "current": 10299
+  },
+  "credit": {
+   "amount": 1004,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-Gc163n\"></span>",
+  "wishlist": "<span id=\"as-WQdVEg\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "9352952": {
+  "id": "56fac803-5755-4802-9d20-9cd0504d4787",
+  "name": "Пылесос моющий Tefal Clean It IZ5020F0 черный",
+  "price": {
+   "current": 19999
+  },
+  "credit": {
+   "amount": 1950,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-22dY5x\"></span>",
+  "wishlist": "<span id=\"as-qPOU_Q\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "9055158": {
+  "id": "8342e967-d29a-400b-ac55-523eab3e593b",
+  "name": "Пылесос моющий Kitfort КТ-5162-3 желтый",
+  "price": {
+   "current": 6399
+  },
+  "credit": {
+   "amount": 624,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-U_SLnq\"></span>",
+  "wishlist": "<span id=\"as-C31aGB\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "1098436": {
+  "id": "b99c99f3-ded1-11e6-ab51-00155d03330d",
+  "name": "Пылесос  Samsung SC8835 белый",
+  "price": {
+   "current": 10199
+  },
+  "credit": {
+   "amount": 994,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as--eo5X2\"></span>",
+  "wishlist": "<span id=\"as-kDLReg\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "9100328": {
+  "id": "c2bda8dc-f487-47ae-adb8-98b088a0419c",
+  "name": "Пылесос  DEXP D-2000 Multi серый",
+  "price": {
+   "current": 5699
+  },
+  "credit": {
+   "amount": 556,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-ONZbZS\"></span>",
+  "wishlist": "<span id=\"as-CY_D48\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "1070799": {
+  "id": "f1748e69-5776-11e6-b717-00155d033307",
+  "name": "Пылесос  Samsung SC4131 красный",
+  "price": {
+   "current": 6299
+  },
+  "credit": {
+   "amount": 614,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-SKbb-o\"></span>",
+  "wishlist": "<span id=\"as-uAwWfq\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "5076062": {
+  "id": "0d9c90e4-3ee3-11ed-9026-00155d8ed20b",
+  "name": "Пылесос  Polaris PVC 2004RI красный",
+  "price": {
+   "current": 9999
+  },
+  "credit": {
+   "amount": 975,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-3bWy4O\"></span>",
+  "wishlist": "<span id=\"as-Ew8Uct\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "5494604": {
+  "id": "70458d86-7ef3-11ef-9279-0050569d5825",
+  "name": "Пылесос моющий Thomas  Aquatic Onyx черный",
+  "price": {
+   "current": 22999
+  },
+  "credit": {
+   "amount": 2242,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-ccKd6W\"></span>",
+  "wishlist": "<span id=\"as-Bta_TD\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "8174410": {
+  "id": "8174410",
+  "name": "Пылесос  Midea VCS43A15 серый",
+  "price": {
+   "previous": 6799,
+   "current": 5499
+  },
+  "primaryButton": "<span id=\"spbb-q6cjzU\"></span>",
+  "wishlist": "",
+  "showPriceFrom": false
+ }
+}

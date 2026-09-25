@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.scratch/
+.idea/
+*.iml
+.env
+# Local working notes, not part of the repository
+research/
+SPEC.md

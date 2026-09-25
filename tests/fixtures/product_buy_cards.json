@@ -1,0 +1,79 @@
+{
+ "9d624585-5873-11ef-9250-0050569d5825": {
+  "id": "9d624585-5873-11ef-9250-0050569d5825",
+  "name": "Пылесос  Philips FC9734/01 фиолетовый",
+  "price": {
+   "current": 15999,
+   "onlinePay": 1600
+  },
+  "credit": {
+   "amount": 1560,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-GtdeGp\"></span>",
+  "wishlist": "<span id=\"as-3RHi0w\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "7924fcf7-6f27-11ef-9271-0050569d0a4d": {
+  "id": "7924fcf7-6f27-11ef-9271-0050569d0a4d",
+  "name": "6.1\" Смартфон Apple iPhone 16 128 ГБ черный",
+  "price": {
+   "current": 70999
+  },
+  "credit": {
+   "amount": 6921,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-wrXMny\"></span>",
+  "wishlist": "<span id=\"as-wbSOJF\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "hasHistory": true
+ },
+ "391235f1-fdb7-11ec-8fe5-00155d8ed20b": {
+  "id": "391235f1-fdb7-11ec-8fe5-00155d8ed20b",
+  "name": "Пылесос  DEXP M-1200 серый",
+  "price": {
+   "current": 2699
+  },
+  "notAvail": true,
+  "credit": {
+   "amount": 263,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-iT-091\"></span>",
+  "analogsLink": "/product/analog/391235f1fdb7ed20/pylesos-dexp-m-1200-seryj/",
+  "wishlist": "<span id=\"as-5rK3VK\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "isPrepay": false,
+  "tooltip": "Последняя цена продажи",
+  "hasHistory": true
+ },
+ "54624ee6-aa53-11e7-938d-00155d03330d": {
+  "id": "54624ee6-aa53-11e7-938d-00155d03330d",
+  "name": "Пылесос  Philips FC9734/01 фиолетовый",
+  "price": {
+   "current": 14399
+  },
+  "notAvail": true,
+  "credit": {
+   "amount": 1404,
+   "period": 12
+  },
+  "primaryButton": "<span id=\"as-7RYplK\"></span>",
+  "analogsLink": "/product/analog/54624ee6aa533330/pylesos-philips-fc973401-fioletovyj/",
+  "wishlist": "<span id=\"as-A-aeOA\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "isPrepay": false,
+  "tooltip": "Последняя цена продажи",
+  "hasHistory": true
+ },
+ "02e42f5b-94d8-4e73-b3de-3a9f8db84271": {
+  "id": "02e42f5b-94d8-4e73-b3de-3a9f8db84271",
+  "name": "Пылесос  Ginzzu VS444 синий",
+  "price": {
+   "current": 5500
+  },
+  "primaryButton": "<span id=\"as-xwl09y\"></span>",
+  "wishlist": "<span id=\"as-tWXtmh\" class=\"wishlist-button-placeholder wishlist-button-placeholder_btn\"></span>",
+  "isPrepay": true,
+  "tooltip": "Обязательна 100% предоплата товара",
+  "hasHistory": true
+ }
+}

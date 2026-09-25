@@ -1,0 +1,3017 @@
+{
+ "shops": [
+  {
+   "id": "b5479f55-3548-435e-a1b6-3c69153f61a9",
+   "title": "Магазин-склад DNS",
+   "address": "г. Екатеринбург, ул. Черняховского, дом 86, корпус 14 (Во время угроз БПЛА филиал недоступен для клиентов)",
+   "workTime": "Ежедневно с 10:00 до 20:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.762523,
+   "longitude": 60.746316,
+   "metroLineColor": "",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "20:00"
+    },
+    {
+     "open": "10:00",
+     "close": "20:00"
+    },
+    {
+     "open": "10:00",
+     "close": "20:00"
+    },
+    {
+     "open": "10:00",
+     "close": "20:00"
+    },
+    {
+     "open": "10:00",
+     "close": "20:00"
+    },
+    {
+     "open": "10:00",
+     "close": "20:00"
+    },
+    {
+     "open": "10:00",
+     "close": "20:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 396,
+   "voblers": [
+    {
+     "guid": "599c866c-f258-47c6-838a-548ba9182600",
+     "title": "Магазин-склад",
+     "hint": "В магазине отсутствует выкладка на витринах. Весь товар хранится на складе в новой заводской упаковке",
+     "link": "https://www.dns-shop.ru/specialization/warehouse-store/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 375,
+    "rating": 4.15,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 4,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 4,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "05d00721-2fa0-11eb-a219-00155d242514",
+   "title": "ЕКБ Сахарова 78",
+   "address": "г. Екатеринбург, пр-кт Академика Сахарова, дом 78, 1 этаж",
+   "workTime": "Ежедневно с 10:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.78749,
+   "longitude": 60.513151,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 550.7,
+   "voblers": [
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": [
+    {
+     "productId": "9d624585-5873-11ef-9250-0050569d5825",
+     "count": 1
+    }
+   ],
+   "deliveryFromStock": true,
+   "rating": {
+    "feedbackAmount": 159,
+    "rating": 4.37,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 4,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 2,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "dc24a5b8-edde-49b3-9997-bd988e29216a",
+   "title": "ЕКБ ТРЦ Карнавал",
+   "address": "г. Екатеринбург, ул. Халтурина, 55, 3 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.852907,
+   "longitude": 60.550861,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 398,
+   "voblers": [
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": [
+    {
+     "productId": "9d624585-5873-11ef-9250-0050569d5825",
+     "count": 1
+    }
+   ],
+   "deliveryFromStock": true,
+   "rating": {
+    "feedbackAmount": 75,
+    "rating": 4.81,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "d5e0949e-a4ef-4a6c-8bf3-b8886f9bbbe8",
+   "title": "Екб Героев России ТП",
+   "address": "г. Екатеринбург, ул. Героев России, д. 2, 1 этаж",
+   "workTime": "Ежедневно с 09:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.856488,
+   "longitude": 60.597997,
+   "metroLineColor": "#0A6F20",
+   "metroStationName": "Уральская",
+   "metroDistance": 245,
+   "type": "Технопоинт",
+   "schedule": [
+    {
+     "open": "09:00",
+     "close": "21:00"
+    },
+    {
+     "open": "09:00",
+     "close": "21:00"
+    },
+    {
+     "open": "09:00",
+     "close": "21:00"
+    },
+    {
+     "open": "09:00",
+     "close": "21:00"
+    },
+    {
+     "open": "09:00",
+     "close": "21:00"
+    },
+    {
+     "open": "09:00",
+     "close": "21:00"
+    },
+    {
+     "open": "09:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": {
+    "guid": "b3f9252a-3f1b-11e8-ad44-00155d242501",
+    "name": "ЕКБ Героев России ТП",
+    "managers": [
+     {
+      "name": "Пётр Фейковый",
+      "phone": "+7 900 000-00-01",
+      "email": "fake.manager@example.com"
+     }
+    ]
+   },
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 120,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    },
+    {
+     "guid": "599c866c-f258-47c6-838a-548ba9182600",
+     "title": "Магазин-склад",
+     "hint": "В магазине отсутствует выкладка на витринах. Весь товар хранится на складе в новой заводской упаковке",
+     "link": "https://www.dns-shop.ru/specialization/warehouse-store/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 266,
+    "rating": 4.78,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 3,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "c7f7f80a-23a6-4263-b2d9-3ee460a583ba",
+   "title": "Терминал Чкаловский",
+   "address": "г. Екатеринбург, Черняховского, д. 86, корп. 13, 1 этаж (Во время угроз БПЛА филиал недоступен для клиентов)",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.762136,
+   "longitude": 60.748835,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS Гипер",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 3319,
+   "voblers": [
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": [
+    {
+     "productId": "9d624585-5873-11ef-9250-0050569d5825",
+     "count": 1
+    }
+   ],
+   "deliveryFromStock": true,
+   "rating": {
+    "feedbackAmount": 76,
+    "rating": 4.47,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 4,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 4,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 2,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "01ca53bb-ff02-11dd-a0a4-00151716f9f5",
+   "title": "ЕКБ ТЦ Мегаполис",
+   "address": "г. Екатеринбург, ул. 8 Марта, 149, 3 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.806786,
+   "longitude": 60.61211,
+   "metroLineColor": "#0A6F20",
+   "metroStationName": "Чкаловская",
+   "metroDistance": 209,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 1670,
+   "voblers": [
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    },
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    }
+   ],
+   "showcases": [
+    {
+     "productId": "9d624585-5873-11ef-9250-0050569d5825",
+     "count": 1
+    }
+   ],
+   "deliveryFromStock": true,
+   "rating": {
+    "feedbackAmount": 129,
+    "rating": 4.65,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 2,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "907afc4f-dc70-11ef-925f-0050569db06e",
+   "title": "ЕКБ ТЦ МЕГА",
+   "address": "г. Екатеринбург,  ул. Металлургов, 87, 1 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.824068,
+   "longitude": 60.503582,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS Гипер",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 879.56,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": [
+    {
+     "productId": "9d624585-5873-11ef-9250-0050569d5825",
+     "count": 1
+    }
+   ],
+   "deliveryFromStock": true,
+   "rating": {
+    "feedbackAmount": 29,
+    "rating": 4.73,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 1,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 4,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 2,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "9674ef8a-f913-4e40-9468-a197b4e25ba6",
+   "title": "ЕКБ Гранат",
+   "address": "г. Екатеринбург, ул. Амундсена, д. 63, 2 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.79724,
+   "longitude": 60.581079,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 745,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 108,
+    "rating": 4.78,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "cc830a79-3d6e-4f44-8ff6-6e5d471499ff",
+   "title": "ЕКБ ТЦ Дирижабль",
+   "address": "г. Екатеринбург, ул. Академика Шварца, д. 17, 1 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.7968,
+   "longitude": 60.626058,
+   "metroLineColor": "#0A6F20",
+   "metroStationName": "Ботаническая",
+   "metroDistance": 451,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": {
+    "guid": "b0449d89-219f-11ef-91b5-0050569db06e",
+    "name": "ЕКБ ТЦ Дирижабль",
+    "managers": [
+     {
+      "name": "Пётр Фейковый",
+      "phone": "+7 900 000-00-01",
+      "email": "fake.manager@example.com"
+     }
+    ]
+   },
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 684.1,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": [
+    {
+     "productId": "9d624585-5873-11ef-9250-0050569d5825",
+     "count": 1
+    }
+   ],
+   "deliveryFromStock": true,
+   "rating": {
+    "feedbackAmount": 181,
+    "rating": 4.79,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "15235ca5-bd35-4dcd-a8a5-7e6db7b905bc",
+   "title": "ЕКБ ТЦ Парус",
+   "address": "г. Екатеринбург, ул. Сулимова, д. 26, цокольный этаж",
+   "workTime": "Ежедневно с 10:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.861567,
+   "longitude": 60.644789,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 502.6,
+   "voblers": [
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": [
+    {
+     "productId": "9d624585-5873-11ef-9250-0050569d5825",
+     "count": 1
+    }
+   ],
+   "deliveryFromStock": true,
+   "rating": {
+    "feedbackAmount": 101,
+    "rating": 4.92,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 1,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "eab1f928-cad6-44e5-a974-9fec1b0d922c",
+   "title": "ЕКБ ТРЦ Радуга Парк",
+   "address": "г. Екатеринбург, ул. Репина, 94",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.817007,
+   "longitude": 60.535993,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 481.05,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": [
+    {
+     "productId": "9d624585-5873-11ef-9250-0050569d5825",
+     "count": 1
+    }
+   ],
+   "deliveryFromStock": true,
+   "rating": {
+    "feedbackAmount": 101,
+    "rating": 4.77,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 4,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "1826eab7-91fc-11f0-930c-0050569db06e",
+   "title": "ЕКБ Луначарского",
+   "address": "г. Екатеринбург, ул. Луначарского д. 205, 3 этаж",
+   "workTime": "Ежедневно с 10:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.828557,
+   "longitude": 60.625726,
+   "metroLineColor": "#0A6F20",
+   "metroStationName": "Геологическая",
+   "metroDistance": 1353,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 358,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 86,
+    "rating": 4.84,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "90ec4b23-de45-42e2-8d4e-01be35ff82e6",
+   "title": "ЕКБ Крауля 65",
+   "address": "г. Екатеринбург, ул. Крауля, 65, 1 этаж",
+   "workTime": "Ежедневно с 10:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.830596,
+   "longitude": 60.546869,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 221,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 149,
+    "rating": 4.81,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 1,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "93395ed4-edc7-11ee-9187-0050569db06e",
+   "title": "ЕКБ ТРЦ Гринвич",
+   "address": "г. Екатеринбург, ул. 8 Марта, 46, 2 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.829965,
+   "longitude": 60.597789,
+   "metroLineColor": "#0A6F20",
+   "metroStationName": "Геологическая",
+   "metroDistance": 512,
+   "type": "DNS Гипер",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 1276.3,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 132,
+    "rating": 4.49,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 4,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 2,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "e63b8331-ee23-44a1-8e4f-1bcb8caa380c",
+   "title": "ЕКБ Техническая 37",
+   "address": "г. Екатеринбург, ул.Техническая 37, 2 этаж",
+   "workTime": "Ежедневно с 10:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.865575,
+   "longitude": 60.532233,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS Гипер",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 1168,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 127,
+    "rating": 4.82,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 2,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 2,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "c6bcced9-2e22-11eb-a219-00155d242514",
+   "title": "ЕКБ ТРЦ Пассаж",
+   "address": "г. Екатеринбург, ул. Вайнера, строение 9, 3 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.836337,
+   "longitude": 60.596274,
+   "metroLineColor": "#0A6F20",
+   "metroStationName": "Площадь 1905 года",
+   "metroDistance": 194,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 865.8,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 71,
+    "rating": 4.24,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 2,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 2,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "69526b14-1b58-4379-94f0-2a4de73735e8",
+   "title": "ЕКБ ТРК Глобус",
+   "address": "г. Екатеринбург, ул. Щербакова, 4, 1 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.788489,
+   "longitude": 60.648549,
+   "metroLineColor": "#0A6F20",
+   "metroStationName": "Ботаническая",
+   "metroDistance": 1363,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 635,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 82,
+    "rating": 4.6,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 3,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 3,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "7daa7ece-c779-11eb-a286-00155d242514",
+   "title": "ЕКБ ТРЦ Фан Фан",
+   "address": "г. Екатеринбург, ул. Ясная, 2, 3 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.816341,
+   "longitude": 60.585913,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": {
+    "guid": "6ca14464-219f-11ef-91b5-0050569db06e",
+    "name": "ЕКБ ТРЦ Фан Фан Гипер",
+    "managers": [
+     {
+      "name": "Пётр Фейковый",
+      "phone": "+7 900 000-00-01",
+      "email": "fake.manager@example.com"
+     }
+    ]
+   },
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 537,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 136,
+    "rating": 4.55,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 2,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 2,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "c00c3e0b-39ea-11de-b24d-00151716f9f5",
+   "title": "Ленина 48",
+   "address": "г. Екатеринбург, Проспект Ленина, 48, 1 этаж",
+   "workTime": "Ежедневно с 10:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.83975,
+   "longitude": 60.619057,
+   "metroLineColor": "#0A6F20",
+   "metroStationName": "Площадь 1905 года",
+   "metroDistance": 1336,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 219,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 107,
+    "rating": 4.71,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "29071f56-659f-4c6e-b339-224a8e58fefa",
+   "title": "ЕКБ В. де Геннина 31",
+   "address": "г. Екатеринбург,  ул. Вильгельма Де Геннина д.31, 1 этаж",
+   "workTime": "Ежедневно с 10:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.792443,
+   "longitude": 60.522403,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 121.6,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 77,
+    "rating": 4.81,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 2,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "a08ffa44-f724-11ea-a218-00155d242514",
+   "title": "ЕКБ ТЦ Апельсин",
+   "address": "г. Екатеринбург, ул. Блюхера, д. 39, цокольный этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.852381,
+   "longitude": 60.640576,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 603,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 147,
+    "rating": 4.69,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 1,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "45d2017f-45d6-4bec-8932-a11a9565b7ba",
+   "title": "ЕКБ Ленина 70",
+   "address": "г. Екатеринбург, Проспект Ленина, 70, 1 этаж",
+   "workTime": "Ежедневно с 10:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.842457,
+   "longitude": 60.642922,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 134,
+   "voblers": [
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 86,
+    "rating": 4.79,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 1,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 2,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "eecbe876-6a2e-4c5f-a8c6-753fb08885d3",
+   "title": "ЕКБ ТЦ Омега",
+   "address": "г. Екатеринбург, Проспект Космонавтов, 41, 3 этаж",
+   "workTime": "Ежедневно с 10:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.899703,
+   "longitude": 60.613351,
+   "metroLineColor": "#0A6F20",
+   "metroStationName": "Проспект Космонавтов",
+   "metroDistance": 83,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": {
+    "guid": "7706af7a-ab84-11f1-9415-0050569db06e",
+    "name": "ЕКБ ТЦ Омега",
+    "managers": [
+     {
+      "name": "Пётр Фейковый",
+      "phone": "+7 900 000-00-01",
+      "email": "fake.manager@example.com"
+     }
+    ]
+   },
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 887.5,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 180,
+    "rating": 4.46,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 3,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 3,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 2,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "ce4f082e-6aaf-11eb-a22e-00155d242514",
+   "title": "ЕКБ ТРЦ Веер Молл",
+   "address": "г. Екатеринбург, пр-т Космонавтов, 108, корпус 1, 2 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.915301,
+   "longitude": 60.612684,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 786,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 85,
+    "rating": 4.27,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 3,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 4,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 2,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "a37fefff-8b8b-4861-8a27-2ce32d159d45",
+   "title": "ЕКБ Титова 14",
+   "address": "г. Екатеринбург, ул. Титова,  14, 2 этаж",
+   "workTime": "Ежедневно с 10:00 до 21:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.781231,
+   "longitude": 60.609183,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    },
+    {
+     "open": "10:00",
+     "close": "21:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 239.8,
+   "voblers": [
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 107,
+    "rating": 4.92,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 2,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 1,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "0d4c3d2e-8add-11eb-a24c-00155d242514",
+   "title": "ЕКБ Виктори молл",
+   "address": "г. Екатеринбург, ул. Победы, д. 14, корпус а, 1 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.89579,
+   "longitude": 60.608977,
+   "metroLineColor": "#0A6F20",
+   "metroStationName": "Проспект Космонавтов",
+   "metroDistance": 592,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 641.7,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 148,
+    "rating": 4.76,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 3,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 1,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "df0d0000-826c-4444-9e80-b40e53bf6949",
+   "title": "ТЦ Кировский ЖБИ",
+   "address": "г. Екатеринбург, Сиреневый бульвар, 2А, 2 этаж",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.834525,
+   "longitude": 60.684099,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS Гипер",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 1152,
+   "voblers": [
+    {
+     "guid": "73a94e3d-0cdd-4641-b777-fc476a702fc3",
+     "title": "Постамат",
+     "hint": "В магазине расположен Постамат DNS",
+     "link": "https://www.dns-shop.ru/specialization/postamat/"
+    },
+    {
+     "guid": "1f467996-5e50-4e15-8425-809ffb5172ef",
+     "title": "Гидрогелевые плёнки",
+     "hint": "В магазине могут изготовить пленку для защиты экрана вашего устройства",
+     "link": "https://www.dns-shop.ru/specialization/hydrogel/"
+    }
+   ],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": {
+    "feedbackAmount": 183,
+    "rating": 4.56,
+    "values": [
+     {
+      "key": "rankCondition",
+      "value": 3,
+      "title": "Состояние товара"
+     },
+     {
+      "key": "rankEmployees",
+      "value": 2,
+      "title": "Работа сотрудников"
+     },
+     {
+      "key": "rankDeliveries",
+      "value": 2,
+      "title": "Оценка скорости выдачи"
+     },
+     {
+      "key": "rankArrivalTime",
+      "value": 1,
+      "title": "Сроки поступления"
+     }
+    ]
+   },
+   "cheapterVoblerText": null,
+   "price": ""
+  },
+  {
+   "id": "cbb8dc67-1e76-11ef-91b3-0050569db06e",
+   "title": "Магазин уценки",
+   "address": "г. Екатеринбург, 620010, Свердловская, обл, Екатеринбург, г, Чкаловский, р-н, Черняховского, ул, дом 86, корпус 13",
+   "workTime": "Ежедневно с 10:00 до 22:00",
+   "workTimeDeviations": [],
+   "isRecommendForLegal": false,
+   "latitude": 56.762136,
+   "longitude": 60.748835,
+   "metroLineColor": "#D10000",
+   "metroStationName": "",
+   "metroDistance": 0,
+   "type": "DNS",
+   "schedule": [
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    },
+    {
+     "open": "10:00",
+     "close": "22:00"
+    }
+   ],
+   "corporateBranch": null,
+   "isCreditAvailable": false,
+   "cityId": "83878977-f329-11dd-9648-00151716f9f5",
+   "cityName": "Екатеринбург",
+   "tradeArea": 365.3,
+   "voblers": [],
+   "showcases": null,
+   "deliveryFromStock": false,
+   "rating": null,
+   "cheapterVoblerText": null,
+   "price": ""
+  }
+ ],
+ "avail": {
+  "branches": [
+   {
+    "branchId": "b5479f55-3548-435e-a1b6-3c69153f61a9",
+    "when": "now",
+    "whenWithWrapped": "now"
+   },
+   {
+    "branchId": "05d00721-2fa0-11eb-a219-00155d242514",
+    "when": "now",
+    "whenWithWrapped": "now"
+   },
+   {
+    "branchId": "dc24a5b8-edde-49b3-9997-bd988e29216a",
+    "when": "now",
+    "whenWithWrapped": "now"
+   },
+   {
+    "branchId": "d5e0949e-a4ef-4a6c-8bf3-b8886f9bbbe8",
+    "when": "now",
+    "whenWithWrapped": "now"
+   },
+   {
+    "branchId": "c7f7f80a-23a6-4263-b2d9-3ee460a583ba",
+    "when": "now",
+    "whenWithWrapped": "2026-09-26 12:40:00"
+   },
+   {
+    "branchId": "01ca53bb-ff02-11dd-a0a4-00151716f9f5",
+    "when": "now",
+    "whenWithWrapped": "2026-09-26 12:40:00"
+   },
+   {
+    "branchId": "907afc4f-dc70-11ef-925f-0050569db06e",
+    "when": "now",
+    "whenWithWrapped": "2026-09-26 12:00:00"
+   },
+   {
+    "branchId": "9674ef8a-f913-4e40-9468-a197b4e25ba6",
+    "when": "now",
+    "whenWithWrapped": "now"
+   },
+   {
+    "branchId": "cc830a79-3d6e-4f44-8ff6-6e5d471499ff",
+    "when": "now",
+    "whenWithWrapped": "2026-09-26 12:00:00"
+   },
+   {
+    "branchId": "15235ca5-bd35-4dcd-a8a5-7e6db7b905bc",
+    "when": "now",
+    "whenWithWrapped": "2026-09-26 13:00:00"
+   },
+   {
+    "branchId": "eab1f928-cad6-44e5-a974-9fec1b0d922c",
+    "when": "now",
+    "whenWithWrapped": "2026-09-26 12:00:00"
+   },
+   {
+    "branchId": "1826eab7-91fc-11f0-930c-0050569db06e",
+    "when": "now",
+    "whenWithWrapped": "now"
+   },
+   {
+    "branchId": "90ec4b23-de45-42e2-8d4e-01be35ff82e6",
+    "when": "now",
+    "whenWithWrapped": "now"
+   },
+   {
+    "branchId": "93395ed4-edc7-11ee-9187-0050569db06e",
+    "when": "2026-09-26 12:00:00",
+    "whenWithWrapped": "2026-09-26 12:00:00"
+   },
+   {
+    "branchId": "e63b8331-ee23-44a1-8e4f-1bcb8caa380c",
+    "when": "2026-09-26 12:00:00",
+    "whenWithWrapped": "2026-09-26 12:00:00"
+   },
+   {
+    "branchId": "c6bcced9-2e22-11eb-a219-00155d242514",
+    "when": "2026-09-26 12:00:00",
+    "whenWithWrapped": "2026-09-26 12:00:00"
+   },
+   {
+    "branchId": "69526b14-1b58-4379-94f0-2a4de73735e8",
+    "when": "2026-09-26 12:00:00",
+    "whenWithWrapped": "2026-09-26 12:00:00"
+   },
+   {
+    "branchId": "7daa7ece-c779-11eb-a286-00155d242514",
+    "when": "2026-09-26 12:00:00",
+    "whenWithWrapped": "2026-09-26 12:00:00"
+   },
+   {
+    "branchId": "c00c3e0b-39ea-11de-b24d-00151716f9f5",
+    "when": "2026-09-26 12:00:00",
+    "whenWithWrapped": "2026-09-26 12:00:00"
+   },
+   {
+    "branchId": "29071f56-659f-4c6e-b339-224a8e58fefa",
+    "when": "2026-09-26 12:00:00",
+    "whenWithWrapped": "2026-09-26 12:00:00"
+   },
+   {
+    "branchId": "a08ffa44-f724-11ea-a218-00155d242514",
+    "when": "2026-09-26 12:20:00",
+    "whenWithWrapped": "2026-09-26 12:20:00"
+   },
+   {
+    "branchId": "45d2017f-45d6-4bec-8932-a11a9565b7ba",
+    "when": "2026-09-26 12:20:00",
+    "whenWithWrapped": "2026-09-26 12:20:00"
+   },
+   {
+    "branchId": "eecbe876-6a2e-4c5f-a8c6-753fb08885d3",
+    "when": "2026-09-26 13:00:00",
+    "whenWithWrapped": "2026-09-26 13:00:00"
+   },
+   {
+    "branchId": "ce4f082e-6aaf-11eb-a22e-00155d242514",
+    "when": "2026-09-26 13:00:00",
+    "whenWithWrapped": "2026-09-26 13:00:00"
+   },
+   {
+    "branchId": "a37fefff-8b8b-4861-8a27-2ce32d159d45",
+    "when": "2026-09-26 14:00:00",
+    "whenWithWrapped": "2026-09-26 14:00:00"
+   },
+   {
+    "branchId": "0d4c3d2e-8add-11eb-a24c-00155d242514",
+    "when": "2026-09-26 14:40:00",
+    "whenWithWrapped": "2026-09-26 14:40:00"
+   },
+   {
+    "branchId": "df0d0000-826c-4444-9e80-b40e53bf6949",
+    "when": "2026-09-26 16:20:00",
+    "whenWithWrapped": "2026-09-26 16:20:00"
+   },
+   {
+    "branchId": "cbb8dc67-1e76-11ef-91b3-0050569db06e",
+    "when": "-",
+    "whenWithWrapped": "-"
+   }
+  ],
+  "products": [
+   {
+    "productId": "9d624585-5873-11ef-9250-0050569d5825",
+    "branches": [
+     {
+      "branchId": "b5479f55-3548-435e-a1b6-3c69153f61a9",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "now",
+      "maxCount": 95,
+      "hardCount": 95,
+      "maxCountWithWrapped": 95,
+      "hardCountWithWrapped": 95
+     },
+     {
+      "branchId": "05d00721-2fa0-11eb-a219-00155d242514",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "now",
+      "maxCount": 2,
+      "hardCount": 2,
+      "maxCountWithWrapped": 1,
+      "hardCountWithWrapped": 1
+     },
+     {
+      "branchId": "dc24a5b8-edde-49b3-9997-bd988e29216a",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "now",
+      "maxCount": 2,
+      "hardCount": 2,
+      "maxCountWithWrapped": 1,
+      "hardCountWithWrapped": 1
+     },
+     {
+      "branchId": "d5e0949e-a4ef-4a6c-8bf3-b8886f9bbbe8",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "now",
+      "maxCount": 2,
+      "hardCount": 2,
+      "maxCountWithWrapped": 2,
+      "hardCountWithWrapped": 2
+     },
+     {
+      "branchId": "c7f7f80a-23a6-4263-b2d9-3ee460a583ba",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "2026-09-26 12:40:00",
+      "maxCount": 1,
+      "hardCount": 1,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "01ca53bb-ff02-11dd-a0a4-00151716f9f5",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "2026-09-26 12:40:00",
+      "maxCount": 1,
+      "hardCount": 1,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "907afc4f-dc70-11ef-925f-0050569db06e",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "2026-09-26 12:00:00",
+      "maxCount": 1,
+      "hardCount": 1,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "9674ef8a-f913-4e40-9468-a197b4e25ba6",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "now",
+      "maxCount": 1,
+      "hardCount": 1,
+      "maxCountWithWrapped": 1,
+      "hardCountWithWrapped": 1
+     },
+     {
+      "branchId": "cc830a79-3d6e-4f44-8ff6-6e5d471499ff",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "2026-09-26 12:00:00",
+      "maxCount": 1,
+      "hardCount": 1,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "15235ca5-bd35-4dcd-a8a5-7e6db7b905bc",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "2026-09-26 13:00:00",
+      "maxCount": 1,
+      "hardCount": 1,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "eab1f928-cad6-44e5-a974-9fec1b0d922c",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "2026-09-26 12:00:00",
+      "maxCount": 1,
+      "hardCount": 1,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "1826eab7-91fc-11f0-930c-0050569db06e",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "now",
+      "maxCount": 1,
+      "hardCount": 1,
+      "maxCountWithWrapped": 1,
+      "hardCountWithWrapped": 1
+     },
+     {
+      "branchId": "90ec4b23-de45-42e2-8d4e-01be35ff82e6",
+      "when": "2026-09-25 09:55:16",
+      "whenWithWrapped": "now",
+      "maxCount": 1,
+      "hardCount": 1,
+      "maxCountWithWrapped": 1,
+      "hardCountWithWrapped": 1
+     },
+     {
+      "branchId": "93395ed4-edc7-11ee-9187-0050569db06e",
+      "when": "2026-09-26 12:00:00",
+      "whenWithWrapped": "2026-09-26 12:00:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "e63b8331-ee23-44a1-8e4f-1bcb8caa380c",
+      "when": "2026-09-26 12:00:00",
+      "whenWithWrapped": "2026-09-26 12:00:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "c6bcced9-2e22-11eb-a219-00155d242514",
+      "when": "2026-09-26 12:00:00",
+      "whenWithWrapped": "2026-09-26 12:00:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "69526b14-1b58-4379-94f0-2a4de73735e8",
+      "when": "2026-09-26 12:00:00",
+      "whenWithWrapped": "2026-09-26 12:00:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "7daa7ece-c779-11eb-a286-00155d242514",
+      "when": "2026-09-26 12:00:00",
+      "whenWithWrapped": "2026-09-26 12:00:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "c00c3e0b-39ea-11de-b24d-00151716f9f5",
+      "when": "2026-09-26 12:00:00",
+      "whenWithWrapped": "2026-09-26 12:00:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "29071f56-659f-4c6e-b339-224a8e58fefa",
+      "when": "2026-09-26 12:00:00",
+      "whenWithWrapped": "2026-09-26 12:00:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "a08ffa44-f724-11ea-a218-00155d242514",
+      "when": "2026-09-26 12:20:00",
+      "whenWithWrapped": "2026-09-26 12:20:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "45d2017f-45d6-4bec-8932-a11a9565b7ba",
+      "when": "2026-09-26 12:20:00",
+      "whenWithWrapped": "2026-09-26 12:20:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "eecbe876-6a2e-4c5f-a8c6-753fb08885d3",
+      "when": "2026-09-26 13:00:00",
+      "whenWithWrapped": "2026-09-26 13:00:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "ce4f082e-6aaf-11eb-a22e-00155d242514",
+      "when": "2026-09-26 13:00:00",
+      "whenWithWrapped": "2026-09-26 13:00:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "a37fefff-8b8b-4861-8a27-2ce32d159d45",
+      "when": "2026-09-26 14:00:00",
+      "whenWithWrapped": "2026-09-26 14:00:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "0d4c3d2e-8add-11eb-a24c-00155d242514",
+      "when": "2026-09-26 14:40:00",
+      "whenWithWrapped": "2026-09-26 14:40:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "df0d0000-826c-4444-9e80-b40e53bf6949",
+      "when": "2026-09-26 16:20:00",
+      "whenWithWrapped": "2026-09-26 16:20:00",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     },
+     {
+      "branchId": "cbb8dc67-1e76-11ef-91b3-0050569db06e",
+      "when": "-",
+      "whenWithWrapped": "-",
+      "maxCount": 0,
+      "hardCount": 0,
+      "maxCountWithWrapped": 0,
+      "hardCountWithWrapped": 0
+     }
+    ]
+   }
+  ]
+ }
+}

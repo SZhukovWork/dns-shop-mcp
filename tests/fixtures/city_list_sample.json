@@ -1,0 +1,875 @@
+{
+ "message": "",
+ "data": {
+  "districts": [
+   {
+    "id": 0,
+    "name": "Дальневосточный"
+   },
+   {
+    "id": 1,
+    "name": "Приволжский"
+   },
+   {
+    "id": 2,
+    "name": "Северо-Западный"
+   },
+   {
+    "id": 3,
+    "name": "Северо-Кавказский"
+   },
+   {
+    "id": 4,
+    "name": "Сибирский"
+   },
+   {
+    "id": 5,
+    "name": "Уральский"
+   },
+   {
+    "id": 6,
+    "name": "Центральный"
+   },
+   {
+    "id": 7,
+    "name": "Южный"
+   }
+  ],
+  "regions": [
+   {
+    "id": 0,
+    "name": "Амурская область",
+    "districtId": 0
+   },
+   {
+    "id": 1,
+    "name": "Бурятия",
+    "districtId": 0
+   },
+   {
+    "id": 2,
+    "name": "Еврейская автономная область",
+    "districtId": 0
+   },
+   {
+    "id": 3,
+    "name": "Забайкальский край",
+    "districtId": 0
+   },
+   {
+    "id": 4,
+    "name": "Камчатский край",
+    "districtId": 0
+   },
+   {
+    "id": 5,
+    "name": "Магаданская область",
+    "districtId": 0
+   },
+   {
+    "id": 6,
+    "name": "Приморский край",
+    "districtId": 0
+   },
+   {
+    "id": 7,
+    "name": "Республика Саха (Якутия)",
+    "districtId": 0
+   },
+   {
+    "id": 8,
+    "name": "Сахалинская область",
+    "districtId": 0
+   },
+   {
+    "id": 9,
+    "name": "Хабаровский край",
+    "districtId": 0
+   },
+   {
+    "id": 10,
+    "name": "Башкортостан",
+    "districtId": 1
+   },
+   {
+    "id": 11,
+    "name": "Кировская область",
+    "districtId": 1
+   },
+   {
+    "id": 12,
+    "name": "Нижегородская область",
+    "districtId": 1
+   },
+   {
+    "id": 13,
+    "name": "Оренбургская область",
+    "districtId": 1
+   },
+   {
+    "id": 14,
+    "name": "Пензенская область",
+    "districtId": 1
+   },
+   {
+    "id": 15,
+    "name": "Пермский край",
+    "districtId": 1
+   },
+   {
+    "id": 16,
+    "name": "Республика Марий Эл",
+    "districtId": 1
+   },
+   {
+    "id": 17,
+    "name": "Республика Мордовия",
+    "districtId": 1
+   },
+   {
+    "id": 18,
+    "name": "Республика Татарстан (Татарстан)",
+    "districtId": 1
+   },
+   {
+    "id": 19,
+    "name": "Самарская область",
+    "districtId": 1
+   },
+   {
+    "id": 20,
+    "name": "Саратовская область",
+    "districtId": 1
+   },
+   {
+    "id": 21,
+    "name": "Удмуртская Республика",
+    "districtId": 1
+   },
+   {
+    "id": 22,
+    "name": "Ульяновская область",
+    "districtId": 1
+   },
+   {
+    "id": 23,
+    "name": "Чувашская республика - Чувашия",
+    "districtId": 1
+   },
+   {
+    "id": 24,
+    "name": "Архангельская область",
+    "districtId": 2
+   },
+   {
+    "id": 25,
+    "name": "Вологодская область",
+    "districtId": 2
+   },
+   {
+    "id": 26,
+    "name": "Город Санкт-Петербург",
+    "districtId": 2
+   },
+   {
+    "id": 27,
+    "name": "Калининградская область",
+    "districtId": 2
+   },
+   {
+    "id": 28,
+    "name": "Ленинградская область",
+    "districtId": 2
+   },
+   {
+    "id": 29,
+    "name": "Мурманская область",
+    "districtId": 2
+   },
+   {
+    "id": 30,
+    "name": "Ненецкий автономный округ",
+    "districtId": 2
+   },
+   {
+    "id": 31,
+    "name": "Новгородская область",
+    "districtId": 2
+   },
+   {
+    "id": 32,
+    "name": "Псковская область",
+    "districtId": 2
+   },
+   {
+    "id": 33,
+    "name": "Республика Карелия",
+    "districtId": 2
+   },
+   {
+    "id": 34,
+    "name": "Республика Коми",
+    "districtId": 2
+   },
+   {
+    "id": 35,
+    "name": "Ингушетия",
+    "districtId": 3
+   },
+   {
+    "id": 36,
+    "name": "Кабардино-Балкарская Республика",
+    "districtId": 3
+   },
+   {
+    "id": 37,
+    "name": "Карачаево-Черкесская Республика",
+    "districtId": 3
+   },
+   {
+    "id": 38,
+    "name": "Республика Дагестан",
+    "districtId": 3
+   },
+   {
+    "id": 39,
+    "name": "Республика Северная Осетия - Алания",
+    "districtId": 3
+   },
+   {
+    "id": 40,
+    "name": "Ставропольский край",
+    "districtId": 3
+   },
+   {
+    "id": 41,
+    "name": "Чеченская Республика",
+    "districtId": 3
+   },
+   {
+    "id": 42,
+    "name": "Алтай",
+    "districtId": 4
+   },
+   {
+    "id": 43,
+    "name": "Алтайский край",
+    "districtId": 4
+   },
+   {
+    "id": 44,
+    "name": "Иркутская область",
+    "districtId": 4
+   },
+   {
+    "id": 45,
+    "name": "Кемеровская область - Кузбасс",
+    "districtId": 4
+   },
+   {
+    "id": 46,
+    "name": "Красноярский край",
+    "districtId": 4
+   },
+   {
+    "id": 47,
+    "name": "Новосибирская область",
+    "districtId": 4
+   },
+   {
+    "id": 48,
+    "name": "Омская область",
+    "districtId": 4
+   },
+   {
+    "id": 49,
+    "name": "Республика Тыва",
+    "districtId": 4
+   },
+   {
+    "id": 50,
+    "name": "Республика Хакасия",
+    "districtId": 4
+   },
+   {
+    "id": 51,
+    "name": "Томская область",
+    "districtId": 4
+   },
+   {
+    "id": 52,
+    "name": "Курганская область",
+    "districtId": 5
+   },
+   {
+    "id": 53,
+    "name": "Свердловская область",
+    "districtId": 5
+   },
+   {
+    "id": 54,
+    "name": "Тюменская область",
+    "districtId": 5
+   },
+   {
+    "id": 55,
+    "name": "Ханты-Мансийский автономный округ - Югра",
+    "districtId": 5
+   },
+   {
+    "id": 56,
+    "name": "Челябинская область",
+    "districtId": 5
+   },
+   {
+    "id": 57,
+    "name": "Ямало-Ненецкий автономный округ",
+    "districtId": 5
+   },
+   {
+    "id": 58,
+    "name": "Белгородская область",
+    "districtId": 6
+   },
+   {
+    "id": 59,
+    "name": "Брянская область",
+    "districtId": 6
+   },
+   {
+    "id": 60,
+    "name": "Владимирская область",
+    "districtId": 6
+   },
+   {
+    "id": 61,
+    "name": "Воронежская область",
+    "districtId": 6
+   },
+   {
+    "id": 62,
+    "name": "Город Москва",
+    "districtId": 6
+   },
+   {
+    "id": 63,
+    "name": "Ивановская область",
+    "districtId": 6
+   },
+   {
+    "id": 64,
+    "name": "Калужская область",
+    "districtId": 6
+   },
+   {
+    "id": 65,
+    "name": "Костромская область",
+    "districtId": 6
+   },
+   {
+    "id": 66,
+    "name": "Курская область",
+    "districtId": 6
+   },
+   {
+    "id": 67,
+    "name": "Липецкая область",
+    "districtId": 6
+   },
+   {
+    "id": 68,
+    "name": "Московская область",
+    "districtId": 6
+   },
+   {
+    "id": 69,
+    "name": "Орловская область",
+    "districtId": 6
+   },
+   {
+    "id": 70,
+    "name": "Рязанская область",
+    "districtId": 6
+   },
+   {
+    "id": 71,
+    "name": "Смоленская область",
+    "districtId": 6
+   },
+   {
+    "id": 72,
+    "name": "Тамбовская область",
+    "districtId": 6
+   },
+   {
+    "id": 73,
+    "name": "Тверская область",
+    "districtId": 6
+   },
+   {
+    "id": 74,
+    "name": "Тульская область",
+    "districtId": 6
+   },
+   {
+    "id": 75,
+    "name": "Ярославская область",
+    "districtId": 6
+   },
+   {
+    "id": 76,
+    "name": "Астраханская область",
+    "districtId": 7
+   },
+   {
+    "id": 77,
+    "name": "Волгоградская область",
+    "districtId": 7
+   },
+   {
+    "id": 78,
+    "name": "Краснодарский край",
+    "districtId": 7
+   },
+   {
+    "id": 79,
+    "name": "Крым",
+    "districtId": 7
+   },
+   {
+    "id": 80,
+    "name": "Республика Адыгея (Адыгея)",
+    "districtId": 7
+   },
+   {
+    "id": 81,
+    "name": "Республика Калмыкия",
+    "districtId": 7
+   },
+   {
+    "id": 82,
+    "name": "Ростовская область",
+    "districtId": 7
+   },
+   {
+    "id": 83,
+    "name": "Севастополь",
+    "districtId": 7
+   }
+  ],
+  "bigCities": [
+   {
+    "id": "30b7c1f3-03fb-11dc-95ee-00151716f9f5",
+    "name": "Москва",
+    "regionId": 62,
+    "citySlug": "moscow",
+    "latitude": 55.755864,
+    "longitude": 37.617698,
+    "code": "10",
+    "shopUrl": "/shops/moscow/"
+   },
+   {
+    "id": "566ca284-5bea-11e2-aee1-00155d030b1f",
+    "name": "Санкт-Петербург",
+    "regionId": 26,
+    "citySlug": "spb",
+    "latitude": 59.939095,
+    "longitude": 30.315868,
+    "code": "254",
+    "shopUrl": "/shops/spb/"
+   },
+   {
+    "id": "58b139d1-90ae-11dc-a1f0-00151716f9f5",
+    "name": "Новосибирск",
+    "regionId": 47,
+    "citySlug": "novosibirsk",
+    "latitude": 55.030204,
+    "longitude": 82.92043,
+    "code": "19",
+    "shopUrl": "/shops/novosibirsk/"
+   }
+  ],
+  "cities": [
+   {
+    "id": "83878977-f329-11dd-9648-00151716f9f5",
+    "name": "Екатеринбург",
+    "regionId": 53,
+    "citySlug": "ekaterinburg",
+    "latitude": 56.838011,
+    "longitude": 60.597474,
+    "code": "24",
+    "shopUrl": "/shops/ekaterinburg/"
+   },
+   {
+    "id": "30b7c1f3-03fb-11dc-95ee-00151716f9f5",
+    "name": "Москва",
+    "regionId": 62,
+    "citySlug": "moscow",
+    "latitude": 55.755864,
+    "longitude": 37.617698,
+    "code": "10",
+    "shopUrl": "/shops/moscow/"
+   },
+   {
+    "id": "4b89ec71-2624-4ad4-9677-ee4f5f6c9881",
+    "name": "Михайловка",
+    "regionId": 6,
+    "citySlug": "mihajlovka",
+    "latitude": 43.937042,
+    "longitude": 133.893013,
+    "code": "1894",
+    "shopUrl": "/shops/mihajlovka/"
+   },
+   {
+    "id": "0facf1c8-ba57-4512-be8d-a813ab9497eb",
+    "name": "Михайловка",
+    "regionId": 10,
+    "citySlug": "mihailovca",
+    "latitude": 54.81486,
+    "longitude": 55.884041,
+    "code": "2653",
+    "shopUrl": "/shops/ufa/"
+   },
+   {
+    "id": "d521af78-4cbb-11f0-9356-0050569d0a4d",
+    "name": "Михайловка",
+    "regionId": 16,
+    "citySlug": "mihajlovka",
+    "latitude": 56.653214,
+    "longitude": 48.257374,
+    "code": "14033",
+    "shopUrl": "/shops/sovetsky/"
+   },
+   {
+    "id": "d521bc7a-4cbb-11f0-9356-0050569d0a4d",
+    "name": "Михайловка",
+    "regionId": 18,
+    "citySlug": "mihajlovka",
+    "latitude": 55.2408,
+    "longitude": 52.929949,
+    "code": "14051",
+    "shopUrl": "/shops/aznakaevo/"
+   },
+   {
+    "id": "d521ba37-4cbb-11f0-9356-0050569d0a4d",
+    "name": "Михайловка",
+    "regionId": 21,
+    "citySlug": "mihajlovka",
+    "latitude": 56.414299,
+    "longitude": 54.279228,
+    "code": "14048",
+    "shopUrl": "/shops/kambarka/"
+   },
+   {
+    "id": "765058c3-8aee-11e2-8583-00155d030b1f",
+    "name": "Михайловка",
+    "regionId": 77,
+    "citySlug": "mihailovka",
+    "latitude": 50.070928,
+    "longitude": 43.240083,
+    "code": "287",
+    "shopUrl": "/shops/mihailovka/"
+   },
+   {
+    "id": "f85fe0a0-a4af-11e1-9c58-001517c526f0",
+    "name": "Белогорск",
+    "regionId": 0,
+    "citySlug": "belogorsk",
+    "latitude": 50.921287,
+    "longitude": 128.473917,
+    "code": "190",
+    "shopUrl": "/shops/belogorsk/"
+   },
+   {
+    "id": "ca246032-0759-11dc-95ee-00151716f9f5",
+    "name": "Благовещенск",
+    "regionId": 0,
+    "citySlug": "blagoveshensk",
+    "latitude": 50.257456,
+    "longitude": 127.534611,
+    "code": "12",
+    "shopUrl": "/shops/blagoveshensk/"
+   },
+   {
+    "id": "96440ec3-9bc2-415e-b38f-68ec7476be1b",
+    "name": "Возжаевка",
+    "regionId": 0,
+    "citySlug": "vozzhavka",
+    "latitude": 50.730573,
+    "longitude": 128.713309,
+    "code": "1885",
+    "shopUrl": "/shops/belogorsk/"
+   },
+   {
+    "id": "fda85305-4663-41a2-938b-2a2d3d0e5e70",
+    "name": "Екатеринославка",
+    "regionId": 0,
+    "citySlug": "ekaterinoslavka",
+    "latitude": 50.372332,
+    "longitude": 129.119258,
+    "code": "1135",
+    "shopUrl": "/shops/blagoveshensk/"
+   },
+   {
+    "id": "7b39476f-0edb-4bc3-bb31-6cedfb2aa695",
+    "name": "Завитинск",
+    "regionId": 0,
+    "citySlug": "zavutunsk",
+    "latitude": 50.106518,
+    "longitude": 129.439309,
+    "code": "1134",
+    "shopUrl": "/shops/zavutunsk/"
+   },
+   {
+    "id": "de8e9a09-fa55-11e2-9ee9-00155d030b1f",
+    "name": "Зея",
+    "regionId": 0,
+    "citySlug": "zeya",
+    "latitude": 53.734033,
+    "longitude": 127.265889,
+    "code": "310",
+    "shopUrl": "/shops/zeya/"
+   },
+   {
+    "id": "76f4afb2-4ab0-11e9-a206-00155d03332b",
+    "name": "Магдагачи",
+    "regionId": 0,
+    "citySlug": "magdagachi",
+    "latitude": 53.453548,
+    "longitude": 125.810726,
+    "code": "881",
+    "shopUrl": "/shops/magdagachi/"
+   },
+   {
+    "id": "1de05e8b-3358-11e6-9a4b-00155d033307",
+    "name": "Новобурейский",
+    "regionId": 0,
+    "citySlug": "novobureiskii",
+    "latitude": 49.79869,
+    "longitude": 129.873438,
+    "code": "553",
+    "shopUrl": "/shops/novobureiskii/"
+   },
+   {
+    "id": "16de8821-04f5-4239-b33b-739f8eff7c88",
+    "name": "Прогресс",
+    "regionId": 0,
+    "citySlug": "progress",
+    "latitude": 49.74162,
+    "longitude": 129.694287,
+    "code": "1886",
+    "shopUrl": "/shops/novobureiskii/"
+   },
+   {
+    "id": "8ed93896-7ab3-11e9-a208-00155df1b805",
+    "name": "Райчихинск",
+    "regionId": 0,
+    "citySlug": "raychikhinsk",
+    "latitude": 49.794114,
+    "longitude": 129.411255,
+    "code": "934",
+    "shopUrl": "/shops/raychikhinsk/"
+   },
+   {
+    "id": "6be1ab2b-3856-11e2-80ee-00155d030b1f",
+    "name": "Свободный",
+    "regionId": 0,
+    "citySlug": "svobodnyj",
+    "latitude": 51.375889,
+    "longitude": 128.134147,
+    "code": "207",
+    "shopUrl": "/shops/svobodnyj/"
+   },
+   {
+    "id": "7d1bafef-a45d-11e9-a20b-00155df1b805",
+    "name": "Серышево",
+    "regionId": 0,
+    "citySlug": "serishevo",
+    "latitude": 51.091206,
+    "longitude": 128.38092,
+    "code": "964",
+    "shopUrl": "/shops/serishevo/"
+   },
+   {
+    "id": "14df5c1b-6db0-11e6-948a-00155d033307",
+    "name": "Сковородино",
+    "regionId": 0,
+    "citySlug": "skovorodino",
+    "latitude": 53.987177,
+    "longitude": 123.943632,
+    "code": "558",
+    "shopUrl": "/shops/skovorodino/"
+   },
+   {
+    "id": "da9f5257-b876-11e3-abb8-00155d031202",
+    "name": "Тында",
+    "regionId": 0,
+    "citySlug": "tynda",
+    "latitude": 55.154656,
+    "longitude": 124.729236,
+    "code": "359",
+    "shopUrl": "/shops/tynda/"
+   },
+   {
+    "id": "f9ce3255-3f79-4457-919c-d180fa813b6a",
+    "name": "Циолковский",
+    "regionId": 0,
+    "citySlug": "ciolkovskij",
+    "latitude": 51.762402,
+    "longitude": 128.122011,
+    "code": "1887",
+    "shopUrl": "/shops/ciolkovskij/"
+   },
+   {
+    "id": "14887dd9-1ea8-49eb-b70a-aa90ec60b9ea",
+    "name": "Чигири",
+    "regionId": 0,
+    "citySlug": "chigiri",
+    "latitude": 50.339159,
+    "longitude": 127.507653,
+    "code": "1903",
+    "shopUrl": "/shops/blagoveshensk/"
+   },
+   {
+    "id": "c71ff886-b32b-11e4-819b-00155d03361b",
+    "name": "Шимановск",
+    "regionId": 0,
+    "citySlug": "shimanovsk",
+    "latitude": 51.999509,
+    "longitude": 127.676123,
+    "code": "460",
+    "shopUrl": "/shops/shimanovsk/"
+   },
+   {
+    "id": "9425c71f-d468-11e9-a20c-00155d03332b",
+    "name": "Гусиноозерск",
+    "regionId": 1,
+    "citySlug": "gusinoozersk",
+    "latitude": 51.285526,
+    "longitude": 106.529323,
+    "code": "1001",
+    "shopUrl": "/shops/gusinoozersk/"
+   },
+   {
+    "id": "f2c57a04-b33f-11ee-91a1-00155d8ed20b",
+    "name": "Кабанск",
+    "regionId": 1,
+    "citySlug": "kabansk",
+    "latitude": 52.05239,
+    "longitude": 106.654878,
+    "code": "3824",
+    "shopUrl": "/shops/kabansk/"
+   },
+   {
+    "id": "b2eaf5de-726a-11f0-8fed-0050569d602c",
+    "name": "Кырен",
+    "regionId": 1,
+    "citySlug": "kyren",
+    "latitude": 51.682491,
+    "longitude": 102.130561,
+    "code": "23611",
+    "shopUrl": "/shops/irkutsk/"
+   },
+   {
+    "id": "dae21d7a-97c9-11e5-912c-00155d03361b",
+    "name": "Кяхта",
+    "regionId": 1,
+    "citySlug": "kyahta",
+    "latitude": 50.355249,
+    "longitude": 106.449866,
+    "code": "518",
+    "shopUrl": "/shops/kyahta/"
+   },
+   {
+    "id": "a8ae9a38-0e0c-11e4-9881-00155d031202",
+    "name": "Северобайкальск",
+    "regionId": 1,
+    "citySlug": "severobaikalck",
+    "latitude": 55.635996,
+    "longitude": 109.335597,
+    "code": "404",
+    "shopUrl": "/shops/severobaikalck/"
+   },
+   {
+    "id": "6d9c4b99-f76f-11e7-80a7-00155d03330d",
+    "name": "Селенгинск",
+    "regionId": 1,
+    "citySlug": "selenginsk",
+    "latitude": 52.007378,
+    "longitude": 106.8676,
+    "code": "668",
+    "shopUrl": "/shops/selenginsk/"
+   },
+   {
+    "id": "4f7a40b0-6b0f-11dc-a590-00151716f9f5",
+    "name": "Улан-Удэ",
+    "regionId": 1,
+    "citySlug": "ulan-ude",
+    "latitude": 51.834464,
+    "longitude": 107.584574,
+    "code": "16",
+    "shopUrl": "/shops/ulan-ude/"
+   },
+   {
+    "id": "308dfa96-7879-11e1-84e2-001517c526f0",
+    "name": "Биробиджан",
+    "regionId": 2,
+    "citySlug": "birobidzhan",
+    "latitude": 48.794662,
+    "longitude": 132.921736,
+    "code": "177",
+    "shopUrl": "/shops/birobidzhan/"
+   },
+   {
+    "id": "e6a2de9d-0d0f-466e-ab77-3ed3004e2bd6",
+    "name": "Николаевка",
+    "regionId": 2,
+    "citySlug": "nikolaevka",
+    "latitude": 48.555121,
+    "longitude": 134.781078,
+    "code": "1901",
+    "shopUrl": "/shops/khabarovsk/"
+   },
+   {
+    "id": "b60c1e9f-9355-47ef-b5a3-82906d074bd4",
+    "name": "Облучье",
+    "regionId": 2,
+    "citySlug": "obluchie",
+    "latitude": 49.018898,
+    "longitude": 131.053914,
+    "code": "1909",
+    "shopUrl": "/shops/obluchie/"
+   },
+   {
+    "id": "8fe4f246-780a-439a-86c2-5e80c8c948b4",
+    "name": "Теплоозёрск",
+    "regionId": 2,
+    "citySlug": "teploozersk",
+    "latitude": 49.006566,
+    "longitude": 131.863575,
+    "code": "1910",
+    "shopUrl": "/shops/birobidzhan/"
+   },
+   {
+    "id": "e3fe7f0f-65c4-11e5-ac0b-00155d03361b",
+    "name": "Агинское",
+    "regionId": 3,
+    "citySlug": "aginskoe",
+    "latitude": 51.103662,
+    "longitude": 114.537849,
+    "code": "510",
+    "shopUrl": "/shops/aginskoe/"
+   },
+   {
+    "id": "44db50ee-1249-11ef-920a-0050569d5825",
+    "name": "Балей",
+    "regionId": 3,
+    "citySlug": "balej",
+    "latitude": 52.847258,
+    "longitude": 116.200424,
+    "code": "3842",
+    "shopUrl": "/shops/balej/"
+   }
+  ]
+ }
+}
