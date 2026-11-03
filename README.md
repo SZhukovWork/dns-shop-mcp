@@ -169,3 +169,32 @@ endpoints and passes its anti-bot check with a real browser. It is meant for
 personal price research at a human request rate; respect DNS's terms of use.
 
 License: MIT.
+
+
+## Standalone lazy startup
+
+The normal console command and `python -m dns_shop_mcp` now start a lightweight
+stdio frontend. No Buyer plugin, external launcher, absolute installation path,
+or user configuration change is required. Initialization and tool/resource/prompt
+listing use the packaged catalog; the first other request starts this connection's
+original server. Tool schemas and results are unchanged, and client sessions are
+never shared. The backend remains alive until the client disconnects, preserving
+state and ongoing work. Closing stdin stops it; this is not an idle-eviction policy.
+
+Catalogs are checked against package source and installed schema-library versions.
+If a catalog is missing or stale, startup falls back to the original server.
+Supported catalogs cover MCP SDK 2.2.0 and 2.3.0 and handshake protocols
+2024-11-05, 2025-03-26, 2025-06-18 and 2025-11-25. Other versions/protocols continue
+working through the original server. Set `MCP_EAGER_START=1` to bypass lazy startup
+for diagnostics. Existing CLI subcommands retain their original behavior.
+
+This reduces memory/import CPU when a host eagerly initializes unused connections;
+it cannot prevent the host from spawning the initial process. To get zero store
+processes in unrelated projects, disable the MCP in those projects in the host.
+On POSIX an inherited negative nice priority is normalized to zero.
+
+Maintainers: after changing package sources, regenerate catalogs with
+`python scripts/update_lazy_catalog.py` in each supported SDK environment, then
+run `pytest -q tests/test_lazy_stdio.py` and build/test the wheel. Generation only
+initializes and lists declarations; it does not call storefront tools. The
+schema/version tests deliberately fail if declarations and packaged catalogs drift.

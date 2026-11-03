@@ -1,3 +1,3 @@
-from .server import main
+from .lazy_stdio import main
 
 main()

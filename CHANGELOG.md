@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+- Built-in lazy stdio startup for independent installs: packaged discovery catalogs,
+  per-client backend activation, EOF cleanup, and unchanged CLI subcommands.
+  No Buyer plugin or external wrapper required.
+
+
 All notable changes to this project are documented here. Versions follow
 [Semantic Versioning](https://semver.org): patch releases fix breakage caused
 by changes on DNS's side, minor releases add features.

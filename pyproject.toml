@@ -32,7 +32,7 @@ Changelog = "https://github.com/SZhukovWork/dns-shop-mcp/blob/main/CHANGELOG.md"
 dev = ["pytest>=8"]
 
 [project.scripts]
-dns-shop-mcp = "dns_shop_mcp.server:main"
+dns-shop-mcp = "dns_shop_mcp.lazy_stdio:main"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/dns_shop_mcp"]
